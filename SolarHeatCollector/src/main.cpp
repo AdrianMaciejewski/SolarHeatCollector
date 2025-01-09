@@ -1,22 +1,26 @@
 #include <Arduino.h>
-#include "rod_sensor.h"
-#include "green_cord_sensor.h"
-#include "stepper_motor.h"
+#include "TemperatureSensor.h"
+#include "StepperMotor.h"
+
+// Create instances for rod and green cord sensors
+TemperatureSensor rodSensor(7, "Rod");
+TemperatureSensor greenCordSensor(8, "Green Cord");
+StepperMotor motor(2048, 10, 11, 12, 13); // Pins for 28BYJ-48
 
 void setup() {
     Serial.begin(9600);
     Serial.println("Initializing...");
 
     // Initialize sensors and stepper motor
-    initializeRodTemperatureSensor();
-    initializeGreenCordTemperatureSensor();
-    initializeStepperMotor();
+    rodSensor.initialize();
+    greenCordSensor.initialize();
+    motor.initialize();
 }
 
 void loop() {
     // Read and print temperatures
-    float rodTemp = readRodTemperature();
-    float greenCordTemp = readGreenCordTemperature();
+    float rodTemp = rodSensor.readTemperature();
+    float greenCordTemp = greenCordSensor.readTemperature();
 
     if (!isnan(rodTemp) && !isnan(greenCordTemp)) {
         Serial.print("Average Temperature: ");
@@ -24,8 +28,8 @@ void loop() {
     }
 
     // Move the stepper motor
-    moveStepperClockwise(200);
-    delay(1000);
-    moveStepperCounterClockwise(200);
-    delay(1000);
+    motor.rotateByDegrees(90, 10);
+    delay(5000);
+    motor.rotateByDegrees(-90, 10);
+    delay(5000);
 }
