@@ -3,7 +3,7 @@
 
 // Constructor
 StepperMotor::StepperMotor(int steps, int p1, int p2, int p3, int p4)
-    : stepsPerRevolution(steps), pin1(p1), pin2(p2), pin3(p3), pin4(p4), motor(steps, p1, p2, p3, p4) {}
+    : stepsPerRevolution(steps), pin1(p1), pin2(p2), pin3(p3), pin4(p4), motor(steps, p1, p3, p2, p4) {} // the correct order of motor pins is 1,3,2,4
 
 // Initialize the stepper motor
 void StepperMotor::initialize() {
