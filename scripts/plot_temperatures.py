@@ -1,48 +1,55 @@
+import argparse
 import pandas as pd
 import matplotlib.pyplot as plt
-import sys
-import os
 
-def plot_temperatures(input_csv, output_file="temperature_graph.png"):
-    # Load the CSV file into a DataFrame
+def main():
+    # Set up argument parser
+    parser = argparse.ArgumentParser(description="Plot specified columns from a CSV file.")
+    parser.add_argument('--csv_file', type=str, required=True, help='Path to the CSV file.')
+    parser.add_argument('--column_x', type=int, required=True, help='Index of the column for the x-axis.')
+    parser.add_argument('--column_y', type=int, nargs='+', required=True, help='Indices of the columns for the y-axis (space-separated).')
+    parser.add_argument('--output', type=str, help='Path to save the output plot (e.g., plot.png).')
+    parser.add_argument('--title', type=str, help='Title of the plot.')
+    parser.add_argument('--xlabel', type=str, help='Label for the x-axis.')
+    parser.add_argument('--ylabel', type=str, help='Label for the y-axis.')
+    
+    args = parser.parse_args()
+
+    # Load the CSV file
     try:
-        data = pd.read_csv(input_csv)
+        data = pd.read_csv(args.csv_file)
     except FileNotFoundError:
-        print(f"Error: File '{input_csv}' not found.")
-        sys.exit(1)
+        print(f"Error: File '{args.csv_file}' not found.")
+        return
 
-    # Check for required columns
-    required_columns = ["Time (ms)", "Rod Temperature", "Green Cord Temperature", "Average Temperature"]
-    for column in required_columns:
-        if column not in data.columns:
-            print(f"Error: Missing required column '{column}' in the CSV file.")
-            sys.exit(1)
+    # Check if columns are valid
+    max_col_index = len(data.columns) - 1
+    if args.column_x > max_col_index or any(y > max_col_index for y in args.column_y):
+        print(f"Error: Column indices out of range. File '{args.csv_file}' has {len(data.columns)} columns.")
+        return
 
-    # Convert "Time (ms)" to seconds
-    data["Time (s)"] = data["Time (ms)"] / 1000.0
+    # Extract x data
+    x_data = data.iloc[:, args.column_x]
 
-    # Plot the data
-    plt.figure(figsize=(12, 6))
-    plt.plot(data["Time (s)"], data["Rod Temperature"], label="Rod Temperature", marker='o')
-    plt.plot(data["Time (s)"], data["Green Cord Temperature"], label="Green Cord Temperature", marker='s')
-    plt.plot(data["Time (s)"], data["Average Temperature"], label="Average Temperature", marker='^')
+    # Plot each specified y column against x
+    plt.figure(figsize=(10, 6))
+    for y_col in args.column_y:
+        y_data = data.iloc[:, y_col]
+        plt.plot(x_data, y_data, marker='o', label=data.columns[y_col])
 
-    # Customize the graph
-    plt.title("Temperatures Over Time")
-    plt.xlabel("Time (s)")
-    plt.ylabel("Temperature (°C)")
+    # Configure plot
+    plt.xlabel(args.xlabel)
+    plt.ylabel(args.ylabel)
+    plt.title(args.title)
     plt.legend()
     plt.grid(True)
 
-    # Save the graph to the specified file path
-    plt.savefig(output_file)
-    print(f"Graph saved as '{output_file}'.")
+    # Save to file or show the plot
+    if args.output:
+        plt.savefig(args.output, dpi=300)
+        print(f"Plot saved to '{args.output}'.")
+    else:
+        plt.show()
 
 if __name__ == "__main__":
-    if len(sys.argv) < 3:
-        print("Usage: python plot_temperatures.py <input_csv> <output_file>")
-        sys.exit(1)
-
-    input_csv = sys.argv[1]
-    output_file = sys.argv[2]
-    plot_temperatures(input_csv, output_file)
+    main()
