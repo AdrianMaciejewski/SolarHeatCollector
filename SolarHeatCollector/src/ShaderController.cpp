@@ -1,5 +1,6 @@
 #include "ShaderController.h"
 #include <Arduino.h>
+#include <DataLogger.h>
 
 // Constructor
 ShaderController::ShaderController(StepperMotor& motor, float minAngle, float maxAngle, int speed)
@@ -22,7 +23,7 @@ void ShaderController::setShadeOpenness(float openness) {
     motor.rotateByDegrees(angleDifference, speed);
     currentAngle = targetAngle;
 
-    Serial.println("Shades set to openness: " + String(openness) + ", Angle: " + String(targetAngle) + "°");
+    logger.setData(SHADE_OPENNESS, openness);
 }
 
 // Get the current openness of the shades

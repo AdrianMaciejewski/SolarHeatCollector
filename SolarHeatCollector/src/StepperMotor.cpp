@@ -14,6 +14,6 @@ void StepperMotor::initialize() {
 void StepperMotor::rotateByDegrees(float degrees, int rpm) {
     motor.setSpeed(rpm); // Set the speed of the motor in RPM
     int steps = (stepsPerRevolution / 360.0) * degrees; // Calculate the number of steps for the given degrees
-    Serial.println("Rotating " + String(degrees) + " degrees at " + String(rpm) + " RPM.");
+    Serial.println("[DEBUG] Rotating " + String(degrees) + " degrees at " + String(rpm) + " RPM.");
     motor.step(steps);
 }

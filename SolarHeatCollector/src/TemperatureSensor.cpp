@@ -20,7 +20,6 @@ float TemperatureSensor::readTemperature() {
         Serial.println(String("Error: ") + name + " sensor disconnected!");
         return NAN;
     } else {
-        Serial.println(String("Temperature (") + name + "): " + temperatureC + " °C");
         return temperatureC;
     }
 }

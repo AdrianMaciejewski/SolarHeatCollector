@@ -1,5 +1,6 @@
 #include "PIDController.h"
 #include <Arduino.h>
+#include <DataLogger.h>
 
 // Constructor
 PIDController::PIDController(ShaderController& shaderController, float Kp, float Ki, float Kd)
@@ -9,7 +10,6 @@ PIDController::PIDController(ShaderController& shaderController, float Kp, float
 // Set the desired temperature
 void PIDController::setTargetTemperature(float temperature) {
     targetTemperature = temperature;
-    Serial.println("Target temperature set to: " + String(temperature) + " °C");
 }
 
 // Run the PID control loop
@@ -39,14 +39,13 @@ void PIDController::update(float currentTemperature) {
     // Apply the calculated openness
     shaderController.setShadeOpenness(newOpenness);
 
-    // Print debug information
-    Serial.println("PID Debug - Error: " + String(error) +
-                   ", Integral: " + String(integral) +
-                   ", Derivative: " + String(derivative) +
-                   ", PID Output: " + String(pidOutput) +
-                   ", New Openness: " + String(newOpenness));
-
     // Update the previous error and time
     previousError = error;
     lastUpdateTime = currentTime;
+
+    logger.setData(TARGET_TEMPERATURE, targetTemperature);
+    logger.setData(PID_ERROR, error);
+    logger.setData(PID_INTEGRAL, integral);
+    logger.setData(PID_DERIVATIVE, derivative);
+    logger.setData(PID_OUTPUT, pidOutput);
 }
