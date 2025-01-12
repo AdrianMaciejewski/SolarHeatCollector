@@ -13,10 +13,9 @@ void PIDController::setTargetTemperature(float temperature) {
 }
 
 // Run the PID control loop
-void PIDController::update(float currentTemperature) {
+void PIDController::update(float currentTemperature, unsigned long currentTime) {
     this->currentTemperature = currentTemperature;
 
-    unsigned long currentTime = millis();
     float deltaTime = (currentTime - lastUpdateTime) / 1000.0; // Convert to seconds
     if (deltaTime <= 0) return;
 

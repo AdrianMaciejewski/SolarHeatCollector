@@ -24,7 +24,7 @@ public:
     PIDController(ShaderController& shaderController, float Kp, float Ki, float Kd);
 
     void setTargetTemperature(float temperature); // Set desired temperature
-    void update(float currentTemperature);        // Run PID control loop
+    void update(float currentTemperature, unsigned long currentTime);        // Run PID control loop
 };
 
 #endif

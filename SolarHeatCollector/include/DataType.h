@@ -5,6 +5,7 @@
 
 // Enum for different data types
 enum DataType {
+    TIME_MS,
     ROD_TEMPERATURE,
     GREEN_CORD_TEMPERATURE,
     AVERAGE_TEMPERATURE,
@@ -20,6 +21,8 @@ enum DataType {
 // Utility function to convert DataType enum to a string
 inline String dataTypeToString(DataType type) {
     switch(type) {
+        case TIME_MS:
+            return "Time (ms)";
         case ROD_TEMPERATURE:
             return "Rod Temperature";
         case GREEN_CORD_TEMPERATURE:

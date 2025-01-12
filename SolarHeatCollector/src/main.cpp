@@ -24,7 +24,8 @@ void setup() {
 }
 
 void loop() {
-    // Read and print temperatures
+    unsigned long time = millis();
+
     float rodTemp = rodSensor.readTemperature();
     float greenCordTemp = greenCordSensor.readTemperature();
     float averageTemperature;
@@ -40,8 +41,10 @@ void loop() {
         Serial.println("Error: Both temperature readings are invalid.");
     }
 
-    pidController.update(averageTemperature);
+    pidController.update(averageTemperature, time);
     
+    
+    logger.setData(TIME_MS, time);
     logger.setData(ROD_TEMPERATURE, rodTemp);
     logger.setData(GREEN_CORD_TEMPERATURE, greenCordTemp);
     logger.setData(AVERAGE_TEMPERATURE, averageTemperature);
