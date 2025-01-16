@@ -35,7 +35,7 @@ def main():
     plt.figure(figsize=(10, 6))
     for y_col in args.column_y:
         y_data = data.iloc[:, y_col]
-        plt.plot(x_data, y_data, marker='o', label=data.columns[y_col])
+        plt.plot(x_data, y_data, label=data.columns[y_col])
 
     # Configure plot
     plt.xlabel(args.xlabel)

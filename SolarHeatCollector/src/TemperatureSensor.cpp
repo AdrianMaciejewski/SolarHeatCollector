@@ -1,14 +1,16 @@
 #include "TemperatureSensor.h"
 #include <Arduino.h>
+#include <DataLogger.h>
+#include <DataType.h>
 
 // Constructor
-TemperatureSensor::TemperatureSensor(int pin, const char* sensorName)
-    : dataPin(pin), name(sensorName), oneWire(pin), sensor(&oneWire) {}
+TemperatureSensor::TemperatureSensor(int pin, DataType dataType)
+    : dataPin(pin), dataType(dataType), oneWire(pin), sensor(&oneWire) {}
 
 // Initialize the sensor
 void TemperatureSensor::initialize() {
     sensor.begin();
-    Serial.println(String(name) + " Temperature Sensor Ready");
+    Serial.println(dataTypeToString(dataType) + " Temperature Sensor Ready");
 }
 
 // Read temperature in Celsius
@@ -17,9 +19,10 @@ float TemperatureSensor::readTemperature() {
     float temperatureC = sensor.getTempCByIndex(0);
 
     if (temperatureC == DEVICE_DISCONNECTED_C) {
-        Serial.println(String("Error: ") + name + " sensor disconnected!");
+        Serial.println(String("Error: ") + dataTypeToString(dataType) + " sensor disconnected!");
         return NAN;
     } else {
+        logger.setData(dataType, temperatureC);
         return temperatureC;
     }
 }

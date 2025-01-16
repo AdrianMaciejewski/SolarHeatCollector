@@ -10,7 +10,7 @@ private:
     Stepper motor;
 
 public:
-    StepperMotor(int steps, int p1, int p2, int p3, int p4);
+    StepperMotor(int steps, int p1, int p3, int p2, int p4);
 
     void initialize();
     void rotateByDegrees(float degrees, int rpm); // Rotate motor by specific degrees with a given rpm

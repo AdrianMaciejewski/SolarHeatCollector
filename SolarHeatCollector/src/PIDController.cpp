@@ -2,9 +2,10 @@
 #include <Arduino.h>
 #include <DataLogger.h>
 
+
 // Constructor
-PIDController::PIDController(ShaderController& shaderController, float Kp, float Ki, float Kd)
-    : shaderController(shaderController), targetTemperature(0.0), currentTemperature(0.0),
+PIDController::PIDController(ShaderController& shaderController, MeasurementSmoother& measurementSmoother, float Kp, float Ki, float Kd)
+    : shaderController(shaderController), measurementSmoother(measurementSmoother), targetTemperature(0.0), currentTemperature(0.0),
       previousError(0.0), integral(0.0), Kp(Kp), Ki(Ki), Kd(Kd), lastUpdateTime(0) {}
 
 // Set the desired temperature
@@ -13,14 +14,11 @@ void PIDController::setTargetTemperature(float temperature) {
 }
 
 // Run the PID control loop
-void PIDController::update(float currentTemperature, unsigned long currentTime) {
-    this->currentTemperature = currentTemperature;
-
+void PIDController::update(float currentValue, unsigned long currentTime) {
     float deltaTime = (currentTime - lastUpdateTime) / 1000.0; // Convert to seconds
-    if (deltaTime <= 0) return;
 
     // Calculate the error
-    float error = targetTemperature - currentTemperature;
+    float error = targetTemperature - currentValue;
 
     // Calculate the integral
     integral += error * deltaTime;

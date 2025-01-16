@@ -4,13 +4,18 @@
 #include "ShaderController.h"
 #include "PIDController.h"
 #include <DataLogger.h>
+#include <constants.h>
+#include "TemperatureReader.h"
 
-// Create instances for rod and green cord sensors
-TemperatureSensor rodSensor(7, "Rod");
-TemperatureSensor greenCordSensor(8, "Green Cord");
-StepperMotor motor(2048, 10, 11, 12, 13); // Pins for 28BYJ-48
-ShaderController shaderController(motor, 10, 90, 10); // Shades operate between 10° and 90°
-PIDController pidController(shaderController, 0.15, 0.01, 0.05); // Tuned PID gains
+// Create instances of the classes
+TemperatureSensor rodSensor(ROD_SENSOR_PIN, ROD_TEMPERATURE);
+TemperatureSensor greenCordSensor(GREEN_CORD_SENSOR_PIN, GREEN_CORD_TEMPERATURE);
+StepperMotor motor(MOTOR_STEPS, MOTOR_PIN1, MOTOR_PIN2, MOTOR_PIN3, MOTOR_PIN4); // Pins for 28BYJ-48
+ShaderController shaderController(motor, SHADER_MIN_ANGLE, SHADER_MAX_ANGLE, SHADER_MIN_ANGLE);
+MeasurementSmoother measurementSmoother(SMOOTHING_WINDOW_SIZE);
+PIDController pidController(shaderController, measurementSmoother, PID_KP, PID_KI, PID_KD);
+
+TemperatureSensor sensors[] = { rodSensor, greenCordSensor };
 
 void setup() {
     Serial.begin(9600);
@@ -20,35 +25,21 @@ void setup() {
     rodSensor.initialize();
     greenCordSensor.initialize();
     motor.initialize();
-    pidController.setTargetTemperature(25.0); // Target: 25°C
+    pidController.setTargetTemperature(TARGET_TEMPERATURE_VALUE); // Target: 25°C
 }
 
 void loop() {
     unsigned long time = millis();
 
-    float rodTemp = rodSensor.readTemperature();
-    float greenCordTemp = greenCordSensor.readTemperature();
-    float averageTemperature;
-
-    if (!isnan(rodTemp) && !isnan(greenCordTemp)) {
-        averageTemperature = (rodTemp + greenCordTemp) / 2;
-    } else if (!isnan(rodTemp)) {
-        averageTemperature = rodTemp;
-    } else if (!isnan(greenCordTemp)) {
-        averageTemperature = greenCordTemp;
-    } else {
-        averageTemperature = 0;
-        Serial.println("Error: Both temperature readings are invalid.");
-    }
-
+    float averageTemperature = calculateAverageTemperature(sensors);
+    
+    //measurementSmoother.addMeasurement(averageTemperature);
+    //float smoothedAverageTemperature = measurementSmoother.getSmoothedMeasurement();
+    
     pidController.update(averageTemperature, time);
     
-    
     logger.setData(TIME_MS, time);
-    logger.setData(ROD_TEMPERATURE, rodTemp);
-    logger.setData(GREEN_CORD_TEMPERATURE, greenCordTemp);
-    logger.setData(AVERAGE_TEMPERATURE, averageTemperature);
     logger.log();
 
-    delay(3000);
+    delay(LOOP_INTERVAL);
 }

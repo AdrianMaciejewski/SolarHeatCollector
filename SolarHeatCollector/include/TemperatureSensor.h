@@ -3,17 +3,18 @@
 
 #include <OneWire.h>
 #include <DallasTemperature.h>
+#include <DataType.h>
 
 class TemperatureSensor {
 private:
     int dataPin;
-    const char* name;
+    DataType dataType;
     OneWire oneWire;
     DallasTemperature sensor;
 
 public:
     // Constructor
-    TemperatureSensor(int pin, const char* sensorName);
+    TemperatureSensor(int pin, DataType dataType);
     
     // Initialize the sensor
     void initialize();
