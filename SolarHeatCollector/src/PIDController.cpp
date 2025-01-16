@@ -4,14 +4,9 @@
 
 
 // Constructor
-PIDController::PIDController(ShaderController& shaderController, MeasurementSmoother& measurementSmoother, float Kp, float Ki, float Kd)
-    : shaderController(shaderController), measurementSmoother(measurementSmoother), targetTemperature(0.0), currentTemperature(0.0),
+PIDController::PIDController(ShaderController& shaderController, MeasurementSmoother& measurementSmoother, int targetTemperature, float Kp, float Ki, float Kd)
+    : shaderController(shaderController), measurementSmoother(measurementSmoother), targetTemperature(targetTemperature), currentTemperature(0.0),
       previousError(0.0), integral(0.0), Kp(Kp), Ki(Ki), Kd(Kd), lastUpdateTime(0) {}
-
-// Set the desired temperature
-void PIDController::setTargetTemperature(float temperature) {
-    targetTemperature = temperature;
-}
 
 // Run the PID control loop
 void PIDController::update(float currentValue, unsigned long currentTime) {
