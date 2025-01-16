@@ -6,7 +6,7 @@ const int ROD_SENSOR_PIN = 7;
 const int GREEN_CORD_SENSOR_PIN = 8;
 
 // Shader controller
-const float SHADER_MIN_ANGLE = 10.0;  // Fully closed
+const float SHADER_MIN_ANGLE = 30.0;  // Fully closed
 const float SHADER_MAX_ANGLE = 90.0;  // Fully open
 
 // Stepper motor
@@ -19,7 +19,7 @@ const int MOTOR_PIN4 = 13;
 const int DEFAULT_SPEED = 10;   // Default motor speed in RPM
 
 // PID controller
-const float TARGET_TEMPERATURE_VALUE = 26.0; // Target temperature in °C
+const float TARGET_TEMPERATURE_VALUE = 60.0; // Target temperature in °C
 
 //  PID values
 const float PID_KP = 0.15/3; // Proportional coefficient
