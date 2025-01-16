@@ -26,9 +26,6 @@ const float PID_KP = 0.15/3; // Proportional coefficient
 const float PID_KI = 0.01/3; // Integral coefficient
 const float PID_KD = 0.05/3; // Derivative coefficient
 
-// Measuremetn smoother
-const int SMOOTHING_WINDOW_SIZE = 3;
-
 // main
 const unsigned long LOOP_INTERVAL = 1000;
 

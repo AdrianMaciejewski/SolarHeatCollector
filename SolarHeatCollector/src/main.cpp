@@ -15,8 +15,7 @@ TemperatureSensor sensors[] = { rodSensor, greenCordSensor };
 
 StepperMotor motor(MOTOR_STEPS, MOTOR_PIN1, MOTOR_PIN2, MOTOR_PIN3, MOTOR_PIN4); // Pins for 28BYJ-48
 ShaderController shaderController(motor, SHADER_MIN_ANGLE, SHADER_MAX_ANGLE, SHADER_MIN_ANGLE);
-MeasurementSmoother measurementSmoother(SMOOTHING_WINDOW_SIZE);
-PIDController pidController(shaderController, measurementSmoother, TARGET_TEMPERATURE_VALUE, PID_KP, PID_KI, PID_KD);
+PIDController pidController(shaderController, TARGET_TEMPERATURE_VALUE, PID_KP, PID_KI, PID_KD);
 
 void setup() {
     Serial.begin(9600);
