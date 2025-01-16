@@ -10,6 +10,7 @@ enum DataType {
     GREEN_CORD_TEMPERATURE,
     AVERAGE_TEMPERATURE,
     SHADE_OPENNESS,
+    MOTOR_ANGLE,
     TARGET_TEMPERATURE,
     PID_ERROR,
     PID_INTEGRAL,
@@ -31,6 +32,8 @@ inline String dataTypeToString(DataType type) {
             return "Average Temperature";
         case SHADE_OPENNESS:
             return "Shade Openness";
+        case MOTOR_ANGLE:
+            return "Motor Angle";
         case TARGET_TEMPERATURE:
             return "Target Temperature";
         case PID_ERROR:

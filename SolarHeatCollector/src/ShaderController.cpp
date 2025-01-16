@@ -19,11 +19,17 @@ void ShaderController::setShadeOpenness(float openness) {
     }
 
     float targetAngle = calculateAngle(openness);
-    float angleDifference = targetAngle - currentAngle;
-    motor.rotateByDegrees(angleDifference, speed);
+    float rotationAngle = targetAngle - currentAngle;
+    
+    // Invert the angle. This is due to the shader and motor placement.
+    // It is not a general solution, but it is required for the condisions of our project.
+    rotationAngle = -rotationAngle; 
+
+    motor.rotateByDegrees(rotationAngle, speed);
     currentAngle = targetAngle;
 
     logger.setData(SHADE_OPENNESS, openness);
+    logger.setData(MOTOR_ANGLE, currentAngle);
 }
 
 // Get the current openness of the shades

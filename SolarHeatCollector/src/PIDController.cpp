@@ -17,6 +17,7 @@ void PIDController::update(float currentValue, unsigned long currentTime) {
 
     // Calculate the integral
     integral += error * deltaTime;
+    integral = constrain(integral, -10, 10); // Ensure absolut value of the integral does not grow too large.
 
     // Calculate the derivative
     float derivative = (error - previousError) / deltaTime;

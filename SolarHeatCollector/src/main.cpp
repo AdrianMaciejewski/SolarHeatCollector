@@ -6,7 +6,7 @@
 #include <DataLogger.h>
 #include <constants.h>
 #include <Timer.h>
-#include "TemperatureReader.h"
+#include "TemperatureReading.h"
 
 // Create instances of the classes
 TemperatureSensor rodSensor(ROD_SENSOR_PIN, ROD_TEMPERATURE);

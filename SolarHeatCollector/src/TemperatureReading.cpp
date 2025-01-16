@@ -1,4 +1,4 @@
-#include <TemperatureReader.h>
+#include <TemperatureReading.h>
 #include <DataLogger.h>
 
 float calculateAverageTemperature(TemperatureSensor* sensors) {
