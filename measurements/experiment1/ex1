@@ -1,0 +1,1274 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2025.01.20 12:47:46 =~=~=~=~=~=~=~=~=~=~=~=
+[DEB PID Output: 2.60
+, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.41, PID Integral: 10.00, PID Derivative: 0.00, PID Output: 2.60
+, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.41, PID Integral: 10.00, PID Derivative: 0.00, PID Output: 2.60
+Rod Temperature Temperature Sensor Ready
+Green Cord Temperature Temperature Sensor Ready
+Stepper Motor Ready
+[DEBUG] Rotating -80.00 degrees at 10 RPM.
+[DATA] Time (ms): 2000.00, Rod Temperature: 28.62, Green Cord Temperature: 28.75, Average Temperature: 28.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.31, PID Integral: 10.00, PID Derivative: 25.66, PID Output: 3.03
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 4261.00, Rod Temperature: 28.62, Green Cord Temperature: 28.75, Average Temperature: 28.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.31, PID Integral: 10.00, PID Derivative: 0.00, PID Output: 2.60
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 6261.00, Rod Temperature: 28.62, Green Cord Temperature: 28.50, Average Temperature: 28.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.44, PID Integral: 10.00, PID Derivative: 0.06, PID Output: 2.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 8261.00, Rod Temperature: 28.62, Green Cord Temperature: 28.75, Average Temperature: 28.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.31, PID Integral: 10.00, PID Derivative: -0.06, PID Output: 2.60
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 10261.00, Rod Temperature: 28.62, Green Cord Temperature: 28.50, Average Temperature: 28.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.44, PID Integral: 10.00, PID Derivative: 0.06, PID Output: 2.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 12261.00, Rod Temperature: 28.62, Green Cord Temperature: 28.50, Average Temperature: 28.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.44, PID Integral: 10.00, PID Derivative: 0.00, PID Output: 2.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 14261.00, Rod Temperature: 28.62, Green Cord Temperature: 28.50, Average Temperature: 28.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.44, PID Integral: 10.00, PID Derivative: 0.00, PID Output: 2.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 16261.00, Rod Temperature: 28.62, Green Cord Temperature: 28.50, Average Temperature: 28.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.44, PID Integral: 10.00, PID Derivative: 0.00, PID Output: 2.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 18262.00, Rod Temperature: 28.62, Green Cord Temperature: 28.50, Average Temperature: 28.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.44, PID Integral: 10.00, PID Derivative: 0.00, PID Output: 2.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 20262.00, Rod Temperature: 28.62, Green Cord Temperature: 28.50, Average Temperature: 28.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.44, PID Integral: 10.00, PID Derivative: 0.00, PID Output: 2.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 22262.00, Rod Temperature: 28.56, Green Cord Temperature: 28.50, Average Temperature: 28.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.47, PID Integral: 10.00, PID Derivative: 0.02, PID Output: 2.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 24262.00, Rod Temperature: 28.62, Green Cord Temperature: 28.50, Average Temperature: 28.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.44, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 2.60
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 26262.00, Rod Temperature: 28.62, Green Cord Temperature: 28.50, Average Temperature: 28.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.44, PID Integral: 10.00, PID Derivative: 0.00, PID Output: 2.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 28262.00, Rod Temperature: 28.56, Green Cord Temperature: 28.50, Average Temperature: 28.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.47, PID Integral: 10.00, PID Derivative: 0.02, PID Output: 2.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 30262.00, Rod Temperature: 28.56, Green Cord Temperature: 28.50, Average Temperature: 28.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.47, PID Integral: 10.00, PID Derivative: 0.00, PID Output: 2.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 32262.00, Rod Temperature: 28.56, Green Cord Temperature: 28.50, Average Temperature: 28.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.47, PID Integral: 10.00, PID Derivative: 0.00, PID Output: 2.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 34262.00, Rod Temperature: 28.56, Green Cord Temperature: 28.50, Average Temperature: 28.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.47, PID Integral: 10.00, PID Derivative: 0.00, PID Output: 2.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 36262.00, Rod Temperature: 28.56, Green Cord Temperature: 28.25, Average Temperature: 28.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.59, PID Integral: 10.00, PID Derivative: 0.06, PID Output: 2.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 38262.00, Rod Temperature: 28.56, Green Cord Temperature: 28.50, Average Temperature: 28.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.47, PID Integral: 10.00, PID Derivative: -0.06, PID Output: 2.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 40262.00, Rod Temperature: 28.56, Green Cord Temperature: 28.50, Average Temperature: 28.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.47, PID Integral: 10.00, PID Derivative: 0.00, PID Output: 2.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 42262.00, Rod Temperature: 28.56, Green Cord Temperature: 28.75, Average Temperature: 28.66, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.34, PID Integral: 10.00, PID Derivative: -0.06, PID Output: 2.60
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 44262.00, Rod Temperature: 28.56, Green Cord Temperature: 29.00, Average Temperature: 28.78, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.22, PID Integral: 10.00, PID Derivative: -0.06, PID Output: 2.59
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 46262.00, Rod Temperature: 28.56, Green Cord Temperature: 29.25, Average Temperature: 28.91, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.09, PID Integral: 10.00, PID Derivative: -0.06, PID Output: 2.59
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 48262.00, Rod Temperature: 28.56, Green Cord Temperature: 29.50, Average Temperature: 29.03, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 50.97, PID Integral: 10.00, PID Derivative: -0.06, PID Output: 2.58
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 50262.00, Rod Temperature: 28.50, Green Cord Temperature: 29.50, Average Temperature: 29.00, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 51.00, PID Integral: 10.00, PID Derivative: 0.02, PID Output: 2.58
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 52262.00, Rod Temperature: 28.50, Green Cord Temperature: 30.00, Average Temperature: 29.25, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 50.75, PID Integral: 10.00, PID Derivative: -0.12, PID Output: 2.57
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 54262.00, Rod Temperature: 28.50, Green Cord Temperature: 30.25, Average Temperature: 29.37, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 50.63, PID Integral: 10.00, PID Derivative: -0.06, PID Output: 2.56
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 56262.00, Rod Temperature: 28.56, Green Cord Temperature: 30.25, Average Temperature: 29.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 50.59, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 2.56
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 58262.00, Rod Temperature: 28.50, Green Cord Temperature: 30.50, Average Temperature: 29.50, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 50.50, PID Integral: 10.00, PID Derivative: -0.05, PID Output: 2.56
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 60262.00, Rod Temperature: 28.56, Green Cord Temperature: 30.75, Average Temperature: 29.66, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 50.34, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 2.55
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 62262.00, Rod Temperature: 28.56, Green Cord Temperature: 31.00, Average Temperature: 29.78, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 50.22, PID Integral: 10.00, PID Derivative: -0.06, PID Output: 2.54
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 64262.00, Rod Temperature: 28.62, Green Cord Temperature: 31.25, Average Temperature: 29.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 50.06, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 2.54
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 66262.00, Rod Temperature: 28.69, Green Cord Temperature: 32.00, Average Temperature: 30.34, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 49.66, PID Integral: 10.00, PID Derivative: -0.20, PID Output: 2.51
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 68262.00, Rod Temperature: 28.75, Green Cord Temperature: 31.75, Average Temperature: 30.25, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 49.75, PID Integral: 10.00, PID Derivative: 0.05, PID Output: 2.52
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 70262.00, Rod Temperature: 28.81, Green Cord Temperature: 32.00, Average Temperature: 30.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 49.59, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 2.51
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 72262.00, Rod Temperature: 28.94, Green Cord Temperature: 32.00, Average Temperature: 30.47, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 49.53, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.51
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 74262.00, Rod Temperature: 29.06, Green Cord Temperature: 32.25, Average Temperature: 30.66, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 49.34, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.50
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 76262.00, Rod Temperature: 29.19, Green Cord Temperature: 32.25, Average Temperature: 30.72, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 49.28, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.50
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 78262.00, Rod Temperature: 29.25, Green Cord Temperature: 32.50, Average Temperature: 30.87, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 49.13, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 2.49
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 80262.00, Rod Temperature: 29.31, Green Cord Temperature: 32.50, Average Temperature: 30.91, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 49.09, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 2.49
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 82262.00, Rod Temperature: 29.44, Green Cord Temperature: 32.75, Average Temperature: 31.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 48.91, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.48
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 84262.00, Rod Temperature: 29.50, Green Cord Temperature: 33.00, Average Temperature: 31.25, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 48.75, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 2.47
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 86262.00, Rod Temperature: 29.62, Green Cord Temperature: 33.00, Average Temperature: 31.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 48.69, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.47
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 88262.00, Rod Temperature: 29.75, Green Cord Temperature: 33.00, Average Temperature: 31.37, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 48.63, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.46
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 90262.00, Rod Temperature: 29.87, Green Cord Temperature: 33.25, Average Temperature: 31.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 48.44, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.45
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 92262.00, Rod Temperature: 29.94, Green Cord Temperature: 33.50, Average Temperature: 31.72, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 48.28, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 2.45
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 94262.00, Rod Temperature: 30.00, Green Cord Temperature: 33.50, Average Temperature: 31.75, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 48.25, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 2.45
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 96262.00, Rod Temperature: 30.12, Green Cord Temperature: 33.50, Average Temperature: 31.81, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 48.19, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.44
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 98262.00, Rod Temperature: 30.19, Green Cord Temperature: 33.75, Average Temperature: 31.97, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 48.03, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 2.43
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 100262.00, Rod Temperature: 30.31, Green Cord Temperature: 34.00, Average Temperature: 32.16, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 47.84, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.42
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 102262.00, Rod Temperature: 30.37, Green Cord Temperature: 34.00, Average Temperature: 32.19, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 47.81, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 2.42
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 104262.00, Rod Temperature: 30.50, Green Cord Temperature: 34.00, Average Temperature: 32.25, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 47.75, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.42
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 106262.00, Rod Temperature: 30.62, Green Cord Temperature: 34.25, Average Temperature: 32.44, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 47.56, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.41
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 108262.00, Rod Temperature: 30.69, Green Cord Temperature: 34.25, Average Temperature: 32.47, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 47.53, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 2.41
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 110262.00, Rod Temperature: 30.81, Green Cord Temperature: 34.50, Average Temperature: 32.66, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 47.34, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.40
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 112262.00, Rod Temperature: 30.87, Green Cord Temperature: 34.50, Average Temperature: 32.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 47.31, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 2.40
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 114262.00, Rod Temperature: 31.00, Green Cord Temperature: 34.50, Average Temperature: 32.75, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 47.25, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.40
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 116262.00, Rod Temperature: 31.12, Green Cord Temperature: 34.75, Average Temperature: 32.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 47.06, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.38
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 118262.00, Rod Temperature: 31.25, Green Cord Temperature: 35.00, Average Temperature: 33.13, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 46.88, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.38
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 120262.00, Rod Temperature: 31.37, Green Cord Temperature: 35.00, Average Temperature: 33.19, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 46.81, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.37
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 122262.00, Rod Temperature: 31.44, Green Cord Temperature: 35.25, Average Temperature: 33.34, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 46.66, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 2.36
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 124262.00, Rod Temperature: 31.56, Green Cord Temperature: 35.25, Average Temperature: 33.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 46.59, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.36
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 126262.00, Rod Temperature: 31.69, Green Cord Temperature: 35.50, Average Temperature: 33.59, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 46.41, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.35
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 128262.00, Rod Temperature: 31.81, Green Cord Temperature: 35.75, Average Temperature: 33.78, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 46.22, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.34
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 130262.00, Rod Temperature: 31.87, Green Cord Temperature: 35.75, Average Temperature: 33.81, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 46.19, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 2.34
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 132262.00, Rod Temperature: 32.00, Green Cord Temperature: 35.75, Average Temperature: 33.88, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 46.13, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.34
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 134262.00, Rod Temperature: 32.13, Green Cord Temperature: 35.75, Average Temperature: 33.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 46.06, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.34
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 136262.00, Rod Temperature: 32.25, Green Cord Temperature: 36.00, Average Temperature: 34.13, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 45.88, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.33
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 138262.00, Rod Temperature: 32.38, Green Cord Temperature: 36.00, Average Temperature: 34.19, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 45.81, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.32
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 140262.00, Rod Temperature: 32.44, Green Cord Temperature: 36.00, Average Temperature: 34.22, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 45.78, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 2.32
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 142262.00, Rod Temperature: 32.56, Green Cord Temperature: 36.25, Average Temperature: 34.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 45.59, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.31
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 144262.00, Rod Temperature: 32.69, Green Cord Temperature: 36.25, Average Temperature: 34.47, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 45.53, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.31
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 146262.00, Rod Temperature: 32.81, Green Cord Temperature: 36.50, Average Temperature: 34.66, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 45.34, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.30
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 148262.00, Rod Temperature: 32.88, Green Cord Temperature: 36.50, Average Temperature: 34.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 45.31, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 2.30
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 150262.00, Rod Temperature: 33.06, Green Cord Temperature: 36.75, Average Temperature: 34.91, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 45.09, PID Integral: 10.00, PID Derivative: -0.11, PID Output: 2.29
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 152262.00, Rod Temperature: 33.13, Green Cord Temperature: 36.75, Average Temperature: 34.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 45.06, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 2.29
+[DEBUG] Rotating 80.00 degrees at 10 RPM.
+[DATA] Time (ms): 154262.00, Rod Temperature: 33.25, Green Cord Temperature: 37.0, Average Temperature: 35.13, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -266.38, PID Integral: -10.00, PID Derivative: -155.72, PID Output: -15.95
+[DEBUG] Rotating -80.00 degrees at 10 RPM.
+[DATA] Time (ms): 156533.00, Rod Temperature: 33.38, Green Cord Temperature: 37.25, Average Temperature: 35.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 44.69, PID Integral: 10.00, PID Derivative: 136.97, PID Output: 4.55
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 158797.00, Rod Temperature: 33.50, Green Cord Temperature: 37.25, Average Temperature: 35.38, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 44.63, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.26
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 160797.00, Rod Temperature: 33.63, Green Cord Temperature: 37.25, Average Temperature: 35.44, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 44.56, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.26
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 162797.00, Rod Temperature: 33.75, Green Cord Temperature: 37.50, Average Temperature: 35.63, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 44.38, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.25
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 164797.00, Rod Temperature: 33.88, Green Cord Temperature: 37.50, Average Temperature: 35.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 44.31, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.25
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 166797.00, Rod Temperature: 33.94, Green Cord Temperature: 37.75, Average Temperature: 35.84, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 44.16, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 2.24
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 168797.00, Rod Temperature: 34.06, Green Cord Temperature: 37.75, Average Temperature: 35.91, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 44.09, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.24
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 170797.00, Rod Temperature: 34.19, Green Cord Temperature: 38.00, Average Temperature: 36.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 43.91, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.23
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 172797.00, Rod Temperature: 34.31, Green Cord Temperature: 38.00, Average Temperature: 36.16, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 43.84, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.23
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 174797.00, Rod Temperature: 34.38, Green Cord Temperature: 38.50, Average Temperature: 36.44, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 43.56, PID Integral: 10.00, PID Derivative: -0.14, PID Output: 2.21
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 176797.00, Rod Temperature: 34.50, Green Cord Temperature: 38.25, Average Temperature: 36.38, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 43.63, PID Integral: 10.00, PID Derivative: 0.03, PID Output: 2.22
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 178797.00, Rod Temperature: 34.63, Green Cord Temperature: 38.50, Average Temperature: 36.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 43.44, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.20
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 180797.00, Rod Temperature: 34.75, Green Cord Temperature: 38.75, Average Temperature: 36.75, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 43.25, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.19
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 182797.00, Rod Temperature: 34.88, Green Cord Temperature: 39.00, Average Temperature: 36.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 43.06, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 184797.00, Rod Temperature: 35.00, Green Cord Temperature: 39.00, Average Temperature: 37.00, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 43.00, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 186797.00, Rod Temperature: 35.13, Green Cord Temperature: 39.00, Average Temperature: 37.06, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 42.94, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 188797.00, Rod Temperature: 35.19, Green Cord Temperature: 39.25, Average Temperature: 37.22, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 42.78, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 2.17
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 190797.00, Rod Temperature: 35.31, Green Cord Temperature: 39.25, Average Temperature: 37.28, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 42.72, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.17
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 192797.00, Rod Temperature: 35.44, Green Cord Temperature: 39.50, Average Temperature: 37.47, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 42.53, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.16
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 194797.00, Rod Temperature: 35.56, Green Cord Temperature: 39.50, Average Temperature: 37.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 42.47, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.16
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 196797.00, Rod Temperature: 35.63, Green Cord Temperature: 39.75, Average Temperature: 37.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 42.31, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 2.15
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 198797.00, Rod Temperature: 35.75, Green Cord Temperature: 39.75, Average Temperature: 37.75, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 42.25, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.15
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 200797.00, Rod Temperature: 35.88, Green Cord Temperature: 40.00, Average Temperature: 37.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 42.06, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.13
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 202797.00, Rod Temperature: 36.00, Green Cord Temperature: 40.00, Average Temperature: 38.00, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 42.00, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.13
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 204797.00, Rod Temperature: 36.06, Green Cord Temperature: 40.25, Average Temperature: 38.16, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 41.84, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 2.12
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 206797.00, Rod Temperature: 36.25, Green Cord Temperature: 40.50, Average Temperature: 38.38, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 41.63, PID Integral: 10.00, PID Derivative: -0.11, PID Output: 2.11
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 208797.00, Rod Temperature: 36.31, Green Cord Temperature: 40.50, Average Temperature: 38.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 41.59, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 2.11
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 210797.00, Rod Temperature: 36.44, Green Cord Temperature: 40.75, Average Temperature: 38.59, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 41.41, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.10
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 212797.00, Rod Temperature: 36.56, Green Cord Temperature: 40.75, Average Temperature: 38.66, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 41.34, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.10
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 214797.00, Rod Temperature: 36.69, Green Cord Temperature: 41.00, Average Temperature: 38.84, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 41.16, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.09
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 216797.00, Rod Temperature: 36.81, Green Cord Temperature: 41.25, Average Temperature: 39.03, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 40.97, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.08
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 218797.00, Rod Temperature: 36.94, Green Cord Temperature: 41.25, Average Temperature: 39.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 40.91, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.08
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 220797.00, Rod Temperature: 37.06, Green Cord Temperature: 41.00, Average Temperature: 39.03, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 40.97, PID Integral: 10.00, PID Derivative: 0.03, PID Output: 2.08
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 222797.00, Rod Temperature: 37.13, Green Cord Temperature: 40.75, Average Temperature: 38.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 41.06, PID Integral: 10.00, PID Derivative: 0.05, PID Output: 2.09
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 224797.00, Rod Temperature: 37.25, Green Cord Temperature: 40.75, Average Temperature: 39.00, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 41.00, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 2.08
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 226797.00, Rod Temperature: 37.38, Green Cord Temperature: 40.25, Average Temperature: 38.81, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 41.19, PID Integral: 10.00, PID Derivative: 0.09, PID Output: 2.09
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 228797.00, Rod Temperature: 37.50, Green Cord Temperature: 40.00, Average Temperature: 38.75, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 41.25, PID Integral: 10.00, PID Derivative: 0.03, PID Output: 2.10
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 230797.00, Rod Temperature: 37.75, Green Cord Temperature: 40.00, Average Temperature: 38.88, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 41.13, PID Integral: 10.00, PID Derivative: -0.06, PID Output: 2.09
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 232797.00, Rod Temperature: 38.00, Green Cord Temperature: 40.25, Average Temperature: 39.13, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 40.88, PID Integral: 10.00, PID Derivative: -0.12, PID Output: 2.08
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 234797.00, Rod Temperature: 38.25, Green Cord Temperature: 40.50, Average Temperature: 39.38, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 40.63, PID Integral: 10.00, PID Derivative: -0.12, PID Output: 2.06
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 236797.00, Rod Temperature: 38.38, Green Cord Temperature: 40.75, Average Temperature: 39.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 40.44, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.05
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 238797.00, Rod Temperature: 38.50, Green Cord Temperature: 41.00, Average Temperature: 39.75, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 40.25, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 2.04
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 240797.00, Rod Temperature: 38.56, Green Cord Temperature: 41.50, Average Temperature: 40.03, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 39.97, PID Integral: 10.00, PID Derivative: -0.14, PID Output: 2.03
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 242797.00, Rod Temperature: 38.63, Green Cord Temperature: 41.50, Average Temperature: 40.06, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 39.94, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 2.03
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 244797.00, Rod Temperature: 38.69, Green Cord Temperature: 41.50, Average Temperature: 40.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 39.91, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 2.03
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 246797.00, Rod Temperature: 38.75, Green Cord Temperature: 42.00, Average Temperature: 40.38, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 39.63, PID Integral: 10.00, PID Derivative: -0.14, PID Output: 2.01
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 248797.00, Rod Temperature: 38.81, Green Cord Temperature: 42.25, Average Temperature: 40.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 39.47, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 2.01
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 250797.00, Rod Temperature: 38.88, Green Cord Temperature: 42.50, Average Temperature: 40.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 39.31, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 2.00
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 252797.00, Rod Temperature: 38.94, Green Cord Temperature: 42.50, Average Temperature: 40.72, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 39.28, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 2.00
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 254797.00, Rod Temperature: 39.00, Green Cord Temperature: 42.75, Average Temperature: 40.88, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 39.13, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 1.99
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 256797.00, Rod Temperature: 39.13, Green Cord Temperature: 43.00, Average Temperature: 41.06, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 38.94, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.98
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 258797.00, Rod Temperature: 39.19, Green Cord Temperature: 43.00, Average Temperature: 41.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 38.91, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.98
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 260797.00, Rod Temperature: 39.31, Green Cord Temperature: 43.25, Average Temperature: 41.28, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 38.72, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.97
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 262797.00, Rod Temperature: 39.38, Green Cord Temperature: 43.25, Average Temperature: 41.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 38.69, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.97
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 264797.00, Rod Temperature: 39.50, Green Cord Temperature: 43.75, Average Temperature: 41.63, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 38.38, PID Integral: 10.00, PID Derivative: -0.16, PID Output: 1.95
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 266797.00, Rod Temperature: 39.63, Green Cord Temperature: 43.75, Average Temperature: 41.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 38.31, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.95
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 268797.00, Rod Temperature: 39.69, Green Cord Temperature: 43.75, Average Temperature: 41.72, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 38.28, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.95
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 270797.00, Rod Temperature: 39.81, Green Cord Temperature: 44.00, Average Temperature: 41.91, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 38.09, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.94
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 272797.00, Rod Temperature: 39.94, Green Cord Temperature: 44.25, Average Temperature: 42.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 37.91, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.93
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 274797.00, Rod Temperature: 40.00, Green Cord Temperature: 44.25, Average Temperature: 42.13, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 37.88, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.93
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 276797.00, Rod Temperature: 40.19, Green Cord Temperature: 44.50, Average Temperature: 42.34, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 37.66, PID Integral: 10.00, PID Derivative: -0.11, PID Output: 1.91
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 278797.00, Rod Temperature: 40.25, Green Cord Temperature: 44.25, Average Temperature: 42.25, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 37.75, PID Integral: 10.00, PID Derivative: 0.05, PID Output: 1.92
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 280797.00, Rod Temperature: 40.38, Green Cord Temperature: 44.75, Average Temperature: 42.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 37.44, PID Integral: 10.00, PID Derivative: -0.16, PID Output: 1.90
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 282797.00, Rod Temperature: 40.50, Green Cord Temperature: 44.75, Average Temperature: 42.63, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 37.38, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.90
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 284797.00, Rod Temperature: 40.63, Green Cord Temperature: 45.00, Average Temperature: 42.81, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 37.19, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.89
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 286797.00, Rod Temperature: 40.75, Green Cord Temperature: 45.00, Average Temperature: 42.88, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 37.13, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.89
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 288797.00, Rod Temperature: 40.81, Green Cord Temperature: 45.25, Average Temperature: 43.03, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 36.97, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 1.88
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 290797.00, Rod Temperature: 40.94, Green Cord Temperature: 45.50, Average Temperature: 43.22, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 36.78, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.87
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 292797.00, Rod Temperature: 41.06, Green Cord Temperature: 45.50, Average Temperature: 43.28, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 36.72, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.87
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 294797.00, Rod Temperature: 41.13, Green Cord Temperature: 45.50, Average Temperature: 43.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 36.69, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.87
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 296797.00, Rod Temperature: 41.25, Green Cord Temperature: 45.50, Average Temperature: 43.38, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 36.63, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.86
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 298797.00, Rod Temperature: 41.38, Green Cord Temperature: 45.75, Average Temperature: 43.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 36.44, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.85
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 300797.00, Rod Temperature: 41.50, Green Cord Temperature: 45.75, Average Temperature: 43.63, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 36.38, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.85
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 302797.00, Rod Temperature: 41.63, Green Cord Temperature: 46.00, Average Temperature: 43.81, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 36.19, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.84
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 304797.00, Rod Temperature: 41.75, Green Cord Temperature: 46.00, Average Temperature: 43.88, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 36.13, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.84
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 306797.00, Rod Temperature: 41.88, Green Cord Temperature: 46.00, Average Temperature: 43.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 36.06, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.84
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 308797.00, Rod Temperature: 41.94, Green Cord Temperature: 46.25, Average Temperature: 44.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 35.91, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 1.83
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 310797.00, Rod Temperature: 42.13, Green Cord Temperature: 46.50, Average Temperature: 44.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 35.69, PID Integral: 10.00, PID Derivative: -0.11, PID Output: 1.82
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 312797.00, Rod Temperature: 42.19, Green Cord Temperature: 46.25, Average Temperature: 44.22, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 35.78, PID Integral: 10.00, PID Derivative: 0.05, PID Output: 1.82
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 314797.00, Rod Temperature: 42.31, Green Cord Temperature: 46.50, Average Temperature: 44.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 35.59, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.81
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 316797.00, Rod Temperature: 42.44, Green Cord Temperature: 46.75, Average Temperature: 44.59, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 35.41, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.80
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 318797.00, Rod Temperature: 42.56, Green Cord Temperature: 46.75, Average Temperature: 44.66, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 35.34, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.80
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 320797.00, Rod Temperature: 42.63, Green Cord Temperature: 47.25, Average Temperature: 44.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 35.06, PID Integral: 10.00, PID Derivative: -0.14, PID Output: 1.78
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 322797.00, Rod Temperature: 42.75, Green Cord Temperature: 47.00, Average Temperature: 44.88, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 35.13, PID Integral: 10.00, PID Derivative: 0.03, PID Output: 1.79
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 324797.00, Rod Temperature: 42.88, Green Cord Temperature: 47.25, Average Temperature: 45.06, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 34.94, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.78
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 326797.00, Rod Temperature: 42.94, Green Cord Temperature: 47.25, Average Temperature: 45.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 34.91, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.78
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 328797.00, Rod Temperature: 43.13, Green Cord Temperature: 47.50, Average Temperature: 45.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 34.69, PID Integral: 10.00, PID Derivative: -0.11, PID Output: 1.77
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 330797.00, Rod Temperature: 43.19, Green Cord Temperature: 47.75, Average Temperature: 45.47, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 34.53, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 1.76
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 332797.00, Rod Temperature: 43.31, Green Cord Temperature: 47.75, Average Temperature: 45.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 34.47, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.76
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 334797.00, Rod Temperature: 43.44, Green Cord Temperature: 48.00, Average Temperature: 45.72, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 34.28, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.75
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 336797.00, Rod Temperature: 43.56, Green Cord Temperature: 48.00, Average Temperature: 45.78, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 34.22, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.74
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 338797.00, Rod Temperature: 43.69, Green Cord Temperature: 48.00, Average Temperature: 45.84, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 34.16, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.74
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 340797.00, Rod Temperature: 43.81, Green Cord Temperature: 48.25, Average Temperature: 46.03, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 33.97, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.73
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 342797.00, Rod Temperature: 43.88, Green Cord Temperature: 48.25, Average Temperature: 46.06, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 33.94, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.73
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 344797.00, Rod Temperature: 44.00, Green Cord Temperature: 48.25, Average Temperature: 46.13, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 33.88, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.73
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 346797.00, Rod Temperature: 44.19, Green Cord Temperature: 48.50, Average Temperature: 46.34, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 33.66, PID Integral: 10.00, PID Derivative: -0.11, PID Output: 1.71
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 348797.00, Rod Temperature: 44.25, Green Cord Temperature: 48.50, Average Temperature: 46.38, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 33.63, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.71
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 350797.00, Rod Temperature: 44.38, Green Cord Temperature: 48.75, Average Temperature: 46.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 33.44, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.70
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 352797.00, Rod Temperature: 44.50, Green Cord Temperature: 48.75, Average Temperature: 46.63, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 33.38, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.70
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 354797.00, Rod Temperature: 44.56, Green Cord Temperature: 48.75, Average Temperature: 46.66, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 33.34, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.70
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 356797.00, Rod Temperature: 44.75, Green Cord Temperature: 49.00, Average Temperature: 46.88, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 33.13, PID Integral: 10.00, PID Derivative: -0.11, PID Output: 1.69
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 358797.00, Rod Temperature: 44.81, Green Cord Temperature: 49.00, Average Temperature: 46.91, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 33.09, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.69
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 360797.00, Rod Temperature: 44.94, Green Cord Temperature: 49.00, Average Temperature: 46.97, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 33.03, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.68
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 362797.00, Rod Temperature: 45.06, Green Cord Temperature: 49.00, Average Temperature: 47.03, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 32.97, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.68
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 364797.00, Rod Temperature: 45.19, Green Cord Temperature: 49.00, Average Temperature: 47.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 32.91, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.68
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 366797.00, Rod Temperature: 45.31, Green Cord Temperature: 49.25, Average Temperature: 47.28, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 32.72, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.67
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 368797.00, Rod Temperature: 45.38, Green Cord Temperature: 49.50, Average Temperature: 47.44, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 32.56, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 1.66
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 370797.00, Rod Temperature: 45.50, Green Cord Temperature: 49.50, Average Temperature: 47.50, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 32.50, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.66
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 372797.00, Rod Temperature: 45.63, Green Cord Temperature: 49.50, Average Temperature: 47.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 32.44, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.65
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 374797.00, Rod Temperature: 45.75, Green Cord Temperature: 49.50, Average Temperature: 47.63, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 32.38, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.65
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 376797.00, Rod Temperature: 45.88, Green Cord Temperature: 49.75, Average Temperature: 47.81, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 32.19, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.64
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 378797.00, Rod Temperature: 46.00, Green Cord Temperature: 49.75, Average Temperature: 47.88, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 32.13, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.64
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 380797.00, Rod Temperature: 46.13, Green Cord Temperature: 50.25, Average Temperature: 48.19, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 31.81, PID Integral: 10.00, PID Derivative: -0.16, PID Output: 1.62
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 382797.00, Rod Temperature: 46.25, Green Cord Temperature: 50.25, Average Temperature: 48.25, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 31.75, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.62
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 384797.00, Rod Temperature: 46.38, Green Cord Temperature: 50.25, Average Temperature: 48.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 31.69, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.62
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 386797.00, Rod Temperature: 46.50, Green Cord Temperature: 50.25, Average Temperature: 48.38, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 31.62, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 388797.00, Rod Temperature: 46.63, Green Cord Temperature: 50.50, Average Temperature: 48.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 31.44, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.60
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 390797.00, Rod Temperature: 46.69, Green Cord Temperature: 50.50, Average Temperature: 48.59, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 31.41, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.60
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 392797.00, Rod Temperature: 46.81, Green Cord Temperature: 50.75, Average Temperature: 48.78, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 31.22, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.59
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 394797.00, Rod Temperature: 46.94, Green Cord Temperature: 51.00, Average Temperature: 48.97, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 31.03, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.58
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 396797.00, Rod Temperature: 47.06, Green Cord Temperature: 51.00, Average Temperature: 49.03, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 30.97, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.58
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 398797.00, Rod Temperature: 47.19, Green Cord Temperature: 51.25, Average Temperature: 49.22, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 30.78, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.57
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 400797.00, Rod Temperature: 47.31, Green Cord Temperature: 51.25, Average Temperature: 49.28, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 30.72, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.57
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 402797.00, Rod Temperature: 47.44, Green Cord Temperature: 51.25, Average Temperature: 49.34, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 30.66, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.57
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 404797.00, Rod Temperature: 47.56, Green Cord Temperature: 51.50, Average Temperature: 49.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 30.47, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.56
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 406797.00, Rod Temperature: 47.63, Green Cord Temperature: 51.50, Average Temperature: 49.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 30.44, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.55
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 408797.00, Rod Temperature: 47.75, Green Cord Temperature: 51.75, Average Temperature: 49.75, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 30.25, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.54
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 410797.00, Rod Temperature: 47.88, Green Cord Temperature: 51.75, Average Temperature: 49.81, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 30.19, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.54
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 412797.00, Rod Temperature: 48.00, Green Cord Temperature: 52.00, Average Temperature: 50.00, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 30.00, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.53
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 414797.00, Rod Temperature: 48.13, Green Cord Temperature: 52.00, Average Temperature: 50.06, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 29.94, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.53
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 416797.00, Rod Temperature: 48.25, Green Cord Temperature: 52.25, Average Temperature: 50.25, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 29.75, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.52
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 418797.00, Rod Temperature: 48.38, Green Cord Temperature: 52.25, Average Temperature: 50.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 29.69, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.52
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 420797.00, Rod Temperature: 48.50, Green Cord Temperature: 52.25, Average Temperature: 50.38, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 29.62, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.51
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 422797.00, Rod Temperature: 48.56, Green Cord Temperature: 52.50, Average Temperature: 50.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 29.47, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 1.51
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 424797.00, Rod Temperature: 48.69, Green Cord Temperature: 52.50, Average Temperature: 50.59, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 29.41, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.50
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 426797.00, Rod Temperature: 48.81, Green Cord Temperature: 52.75, Average Temperature: 50.78, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 29.22, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.49
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 428797.00, Rod Temperature: 48.94, Green Cord Temperature: 52.75, Average Temperature: 50.84, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 29.16, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.49
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 430797.00, Rod Temperature: 49.06, Green Cord Temperature: 53.00, Average Temperature: 51.03, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 28.97, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.48
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 432797.00, Rod Temperature: 49.19, Green Cord Temperature: 53.00, Average Temperature: 51.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 28.91, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.48
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 434797.00, Rod Temperature: 49.31, Green Cord Temperature: 53.00, Average Temperature: 51.16, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 28.84, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.48
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 436797.00, Rod Temperature: 49.44, Green Cord Temperature: 53.25, Average Temperature: 51.34, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 28.66, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.46
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 438797.00, Rod Temperature: 49.50, Green Cord Temperature: 53.50, Average Temperature: 51.50, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 28.50, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 1.46
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 440797.00, Rod Temperature: 49.63, Green Cord Temperature: 53.50, Average Temperature: 51.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 28.44, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.45
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 442797.00, Rod Temperature: 49.81, Green Cord Temperature: 53.75, Average Temperature: 51.78, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 28.22, PID Integral: 10.00, PID Derivative: -0.11, PID Output: 1.44
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 444797.00, Rod Temperature: 49.88, Green Cord Temperature: 54.00, Average Temperature: 51.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 28.06, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 1.44
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 446797.00, Rod Temperature: 50.00, Green Cord Temperature: 54.25, Average Temperature: 52.13, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 27.87, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.43
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 448797.00, Rod Temperature: 50.13, Green Cord Temperature: 54.25, Average Temperature: 52.19, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 27.81, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.42
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 450797.00, Rod Temperature: 50.25, Green Cord Temperature: 54.50, Average Temperature: 52.38, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 27.62, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.41
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 452797.00, Rod Temperature: 50.31, Green Cord Temperature: 54.50, Average Temperature: 52.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 27.59, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.41
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 454797.00, Rod Temperature: 50.44, Green Cord Temperature: 54.25, Average Temperature: 52.34, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 27.66, PID Integral: 10.00, PID Derivative: 0.03, PID Output: 1.42
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 456797.00, Rod Temperature: 50.56, Green Cord Temperature: 54.50, Average Temperature: 52.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 27.47, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.41
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 458797.00, Rod Temperature: 50.69, Green Cord Temperature: 55.00, Average Temperature: 52.84, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 27.16, PID Integral: 10.00, PID Derivative: -0.16, PID Output: 1.39
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 460797.00, Rod Temperature: 50.81, Green Cord Temperature: 54.75, Average Temperature: 52.78, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 27.22, PID Integral: 10.00, PID Derivative: 0.03, PID Output: 1.39
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 462797.00, Rod Temperature: 50.94, Green Cord Temperature: 55.00, Average Temperature: 52.97, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 27.03, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.38
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 464797.00, Rod Temperature: 51.06, Green Cord Temperature: 55.00, Average Temperature: 53.03, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 26.97, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.38
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 466797.00, Rod Temperature: 51.19, Green Cord Temperature: 55.25, Average Temperature: 53.22, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 26.78, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.37
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 468797.00, Rod Temperature: 51.25, Green Cord Temperature: 55.25, Average Temperature: 53.25, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 26.75, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.37
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 470797.00, Rod Temperature: 51.38, Green Cord Temperature: 55.50, Average Temperature: 53.44, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 26.56, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.36
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 472797.00, Rod Temperature: 51.50, Green Cord Temperature: 55.50, Average Temperature: 53.50, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 26.50, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.36
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 474797.00, Rod Temperature: 51.63, Green Cord Temperature: 55.50, Average Temperature: 53.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 26.44, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.35
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 476797.00, Rod Temperature: 51.75, Green Cord Temperature: 55.50, Average Temperature: 53.63, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 26.37, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.35
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 478797.00, Rod Temperature: 51.88, Green Cord Temperature: 56.00, Average Temperature: 53.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 26.06, PID Integral: 10.00, PID Derivative: -0.16, PID Output: 1.33
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 480797.00, Rod Temperature: 52.00, Green Cord Temperature: 56.00, Average Temperature: 54.00, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 26.00, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.33
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 482797.00, Rod Temperature: 52.13, Green Cord Temperature: 56.25, Average Temperature: 54.19, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 25.81, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.32
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 484797.00, Rod Temperature: 52.25, Green Cord Temperature: 56.25, Average Temperature: 54.25, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 25.75, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.32
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 486797.00, Rod Temperature: 52.31, Green Cord Temperature: 56.50, Average Temperature: 54.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 25.59, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 1.31
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 488797.00, Rod Temperature: 52.44, Green Cord Temperature: 56.50, Average Temperature: 54.47, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 25.53, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.31
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 490797.00, Rod Temperature: 52.56, Green Cord Temperature: 56.75, Average Temperature: 54.66, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 25.34, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.30
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 492797.00, Rod Temperature: 52.69, Green Cord Temperature: 56.75, Average Temperature: 54.72, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 25.28, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.30
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 494797.00, Rod Temperature: 52.81, Green Cord Temperature: 57.25, Average Temperature: 55.03, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 24.97, PID Integral: 10.00, PID Derivative: -0.16, PID Output: 1.28
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 496797.00, Rod Temperature: 52.94, Green Cord Temperature: 57.00, Average Temperature: 54.97, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 25.03, PID Integral: 10.00, PID Derivative: 0.03, PID Output: 1.29
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 498797.00, Rod Temperature: 53.00, Green Cord Temperature: 57.00, Average Temperature: 55.00, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 25.00, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.28
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 500797.00, Rod Temperature: 53.13, Green Cord Temperature: 57.25, Average Temperature: 55.19, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 24.81, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.27
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 502797.00, Rod Temperature: 53.25, Green Cord Temperature: 57.50, Average Temperature: 55.38, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 24.62, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.26
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 504797.00, Rod Temperature: 53.38, Green Cord Temperature: 57.50, Average Temperature: 55.44, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 24.56, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.26
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 506797.00, Rod Temperature: 53.50, Green Cord Temperature: 57.50, Average Temperature: 55.50, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 24.50, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.26
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 508797.00, Rod Temperature: 53.63, Green Cord Temperature: 57.75, Average Temperature: 55.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 24.31, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.25
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 510797.00, Rod Temperature: 53.69, Green Cord Temperature: 57.75, Average Temperature: 55.72, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 24.28, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.25
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 512797.00, Rod Temperature: 53.81, Green Cord Temperature: 57.75, Average Temperature: 55.78, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 24.22, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.24
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 514797.00, Rod Temperature: 53.94, Green Cord Temperature: 58.00, Average Temperature: 55.97, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 24.03, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.23
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 516797.00, Rod Temperature: 54.06, Green Cord Temperature: 58.00, Average Temperature: 56.03, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 23.97, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.23
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 518797.00, Rod Temperature: 54.19, Green Cord Temperature: 58.25, Average Temperature: 56.22, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 23.78, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.22
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 520797.00, Rod Temperature: 54.31, Green Cord Temperature: 58.25, Average Temperature: 56.28, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 23.72, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.22
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 522797.00, Rod Temperature: 54.44, Green Cord Temperature: 58.25, Average Temperature: 56.34, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 23.66, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.22
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 524797.00, Rod Temperature: 54.50, Green Cord Temperature: 58.25, Average Temperature: 56.38, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 23.62, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.21
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 526797.00, Rod Temperature: 54.63, Green Cord Temperature: 58.50, Average Temperature: 56.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 23.44, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.20
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 528797.00, Rod Temperature: 54.75, Green Cord Temperature: 58.50, Average Temperature: 56.63, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 23.37, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.20
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 530797.00, Rod Temperature: 54.88, Green Cord Temperature: 58.50, Average Temperature: 56.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 23.31, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.20
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 532797.00, Rod Temperature: 55.00, Green Cord Temperature: 58.75, Average Temperature: 56.88, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 23.12, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.19
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 534797.00, Rod Temperature: 55.06, Green Cord Temperature: 59.00, Average Temperature: 57.03, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 22.97, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 1.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 536797.00, Rod Temperature: 55.19, Green Cord Temperature: 59.00, Average Temperature: 57.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 22.91, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 538797.00, Rod Temperature: 55.31, Green Cord Temperature: 59.00, Average Temperature: 57.16, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 22.84, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.17
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 540797.00, Rod Temperature: 55.44, Green Cord Temperature: 59.25, Average Temperature: 57.34, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 22.66, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.16
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 542797.00, Rod Temperature: 55.63, Green Cord Temperature: 59.25, Average Temperature: 57.44, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 22.56, PID Integral: 10.00, PID Derivative: -0.05, PID Output: 1.16
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 544797.00, Rod Temperature: 55.69, Green Cord Temperature: 59.25, Average Temperature: 57.47, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 22.53, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.16
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 546797.00, Rod Temperature: 55.81, Green Cord Temperature: 59.50, Average Temperature: 57.66, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 22.34, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.15
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 548797.00, Rod Temperature: 55.88, Green Cord Temperature: 59.75, Average Temperature: 57.81, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 22.19, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 1.14
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 550797.00, Rod Temperature: 56.00, Green Cord Temperature: 60.00, Average Temperature: 58.00, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 22.00, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.13
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 552797.00, Rod Temperature: 56.13, Green Cord Temperature: 60.00, Average Temperature: 58.06, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 21.94, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.13
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 554797.00, Rod Temperature: 56.25, Green Cord Temperature: 60.00, Average Temperature: 58.13, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 21.87, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.13
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 556797.00, Rod Temperature: 56.31, Green Cord Temperature: 60.00, Average Temperature: 58.16, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 21.84, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.13
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 558797.00, Rod Temperature: 56.44, Green Cord Temperature: 60.00, Average Temperature: 58.22, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 21.78, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.12
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 560797.00, Rod Temperature: 56.56, Green Cord Temperature: 60.00, Average Temperature: 58.28, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 21.72, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.12
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 562797.00, Rod Temperature: 56.69, Green Cord Temperature: 60.50, Average Temperature: 58.59, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 21.41, PID Integral: 10.00, PID Derivative: -0.16, PID Output: 1.10
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 564797.00, Rod Temperature: 56.81, Green Cord Temperature: 60.25, Average Temperature: 58.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 21.47, PID Integral: 10.00, PID Derivative: 0.03, PID Output: 1.11
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 566797.00, Rod Temperature: 56.88, Green Cord Temperature: 60.50, Average Temperature: 58.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 21.31, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 1.10
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 568797.00, Rod Temperature: 57.00, Green Cord Temperature: 60.75, Average Temperature: 58.88, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 21.12, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.09
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 570797.00, Rod Temperature: 57.13, Green Cord Temperature: 61.00, Average Temperature: 59.06, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 20.94, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.08
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 572797.00, Rod Temperature: 57.25, Green Cord Temperature: 60.75, Average Temperature: 59.00, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 21.00, PID Integral: 10.00, PID Derivative: 0.03, PID Output: 1.08
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 574797.00, Rod Temperature: 57.38, Green Cord Temperature: 61.25, Average Temperature: 59.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 20.69, PID Integral: 10.00, PID Derivative: -0.16, PID Output: 1.07
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 576797.00, Rod Temperature: 57.50, Green Cord Temperature: 61.25, Average Temperature: 59.38, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 20.62, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.06
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 578797.00, Rod Temperature: 57.56, Green Cord Temperature: 61.25, Average Temperature: 59.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 20.59, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.06
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 580797.00, Rod Temperature: 57.69, Green Cord Temperature: 61.25, Average Temperature: 59.47, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 20.53, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.06
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 582797.00, Rod Temperature: 57.81, Green Cord Temperature: 61.50, Average Temperature: 59.66, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 20.34, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.05
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 584797.00, Rod Temperature: 57.94, Green Cord Temperature: 61.50, Average Temperature: 59.72, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 20.28, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.05
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 586797.00, Rod Temperature: 58.00, Green Cord Temperature: 61.75, Average Temperature: 59.88, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 20.12, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 1.04
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 588797.00, Rod Temperature: 58.13, Green Cord Temperature: 61.75, Average Temperature: 59.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 20.06, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.04
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 590797.00, Rod Temperature: 58.25, Green Cord Temperature: 62.00, Average Temperature: 60.13, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 19.87, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.03
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 592797.00, Rod Temperature: 58.38, Green Cord Temperature: 62.25, Average Temperature: 60.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 19.69, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.02
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 594797.00, Rod Temperature: 58.44, Green Cord Temperature: 62.25, Average Temperature: 60.34, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 19.66, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 1.02
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 596797.00, Rod Temperature: 58.56, Green Cord Temperature: 62.25, Average Temperature: 60.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 19.59, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.01
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 598797.00, Rod Temperature: 58.69, Green Cord Temperature: 62.50, Average Temperature: 60.59, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 19.41, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 1.00
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 600797.00, Rod Temperature: 58.81, Green Cord Temperature: 62.50, Average Temperature: 60.66, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 19.34, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 1.00
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 602797.00, Rod Temperature: 58.88, Green Cord Temperature: 62.75, Average Temperature: 60.81, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 19.19, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.99
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 604797.00, Rod Temperature: 59.00, Green Cord Temperature: 62.50, Average Temperature: 60.75, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 19.25, PID Integral: 10.00, PID Derivative: 0.03, PID Output: 1.00
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 606797.00, Rod Temperature: 59.13, Green Cord Temperature: 62.75, Average Temperature: 60.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 19.06, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.98
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 608797.00, Rod Temperature: 59.19, Green Cord Temperature: 63.00, Average Temperature: 61.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 18.91, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.98
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 610797.00, Rod Temperature: 59.31, Green Cord Temperature: 63.00, Average Temperature: 61.16, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 18.84, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.98
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 612797.00, Rod Temperature: 59.44, Green Cord Temperature: 63.25, Average Temperature: 61.34, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 18.66, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.96
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 614797.00, Rod Temperature: 59.50, Green Cord Temperature: 63.25, Average Temperature: 61.38, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 18.62, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.96
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 616797.00, Rod Temperature: 59.63, Green Cord Temperature: 63.25, Average Temperature: 61.44, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 18.56, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.96
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 618797.00, Rod Temperature: 59.75, Green Cord Temperature: 63.50, Average Temperature: 61.63, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 18.37, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.95
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 620797.00, Rod Temperature: 59.88, Green Cord Temperature: 63.50, Average Temperature: 61.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 18.31, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.95
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 622797.00, Rod Temperature: 60.00, Green Cord Temperature: 63.75, Average Temperature: 61.88, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 18.12, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.94
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 624797.00, Rod Temperature: 60.13, Green Cord Temperature: 63.75, Average Temperature: 61.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 18.06, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.94
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 626797.00, Rod Temperature: 60.25, Green Cord Temperature: 63.75, Average Temperature: 62.00, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 18.00, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.93
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 628797.00, Rod Temperature: 60.31, Green Cord Temperature: 64.25, Average Temperature: 62.28, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 17.72, PID Integral: 10.00, PID Derivative: -0.14, PID Output: 0.92
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 630797.00, Rod Temperature: 60.44, Green Cord Temperature: 64.25, Average Temperature: 62.34, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 17.66, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.92
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 632797.00, Rod Temperature: 60.56, Green Cord Temperature: 64.50, Average Temperature: 62.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 17.47, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.91
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 634797.00, Rod Temperature: 60.63, Green Cord Temperature: 64.50, Average Temperature: 62.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 17.44, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.90
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 636797.00, Rod Temperature: 60.75, Green Cord Temperature: 64.75, Average Temperature: 62.75, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 17.25, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.89
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 638797.00, Rod Temperature: 60.88, Green Cord Temperature: 64.75, Average Temperature: 62.81, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 17.19, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.89
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 640797.00, Rod Temperature: 61.00, Green Cord Temperature: 64.75, Average Temperature: 62.88, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 17.12, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.89
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 642797.00, Rod Temperature: 61.13, Green Cord Temperature: 65.25, Average Temperature: 63.19, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 16.81, PID Integral: 10.00, PID Derivative: -0.16, PID Output: 0.87
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 644797.00, Rod Temperature: 61.19, Green Cord Temperature: 65.25, Average Temperature: 63.22, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 16.78, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.87
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 646797.00, Rod Temperature: 61.31, Green Cord Temperature: 65.25, Average Temperature: 63.28, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 16.72, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.87
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 648797.00, Rod Temperature: 61.38, Green Cord Temperature: 65.50, Average Temperature: 63.44, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 16.56, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.86
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 650797.00, Rod Temperature: 61.50, Green Cord Temperature: 65.75, Average Temperature: 63.63, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 16.37, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.85
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 652797.00, Rod Temperature: 61.63, Green Cord Temperature: 65.75, Average Temperature: 63.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 16.31, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.85
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 654797.00, Rod Temperature: 61.69, Green Cord Temperature: 65.75, Average Temperature: 63.72, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 16.28, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.85
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 656797.00, Rod Temperature: 61.81, Green Cord Temperature: 65.75, Average Temperature: 63.78, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 16.22, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.84
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 658797.00, Rod Temperature: 61.94, Green Cord Temperature: 65.75, Average Temperature: 63.84, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 16.16, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.84
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 660797.00, Rod Temperature: 62.06, Green Cord Temperature: 66.25, Average Temperature: 64.16, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 15.84, PID Integral: 10.00, PID Derivative: -0.16, PID Output: 0.82
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 662797.00, Rod Temperature: 62.13, Green Cord Temperature: 66.00, Average Temperature: 64.06, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 15.94, PID Integral: 10.00, PID Derivative: 0.05, PID Output: 0.83
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 664797.00, Rod Temperature: 62.25, Green Cord Temperature: 66.25, Average Temperature: 64.25, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 15.75, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.82
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 666797.00, Rod Temperature: 62.38, Green Cord Temperature: 66.25, Average Temperature: 64.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 15.69, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.82
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 668797.00, Rod Temperature: 62.44, Green Cord Temperature: 66.50, Average Temperature: 64.47, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 15.53, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.81
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 670797.00, Rod Temperature: 62.56, Green Cord Temperature: 66.50, Average Temperature: 64.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 15.47, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.81
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 672797.00, Rod Temperature: 62.69, Green Cord Temperature: 66.50, Average Temperature: 64.59, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 15.41, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.80
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 674797.00, Rod Temperature: 62.75, Green Cord Temperature: 66.50, Average Temperature: 64.62, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 15.38, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.80
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 676797.00, Rod Temperature: 62.88, Green Cord Temperature: 66.75, Average Temperature: 64.81, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 15.19, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.79
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 678797.00, Rod Temperature: 63.00, Green Cord Temperature: 66.75, Average Temperature: 64.87, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 15.13, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.79
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 680797.00, Rod Temperature: 63.13, Green Cord Temperature: 67.25, Average Temperature: 65.19, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 14.81, PID Integral: 10.00, PID Derivative: -0.16, PID Output: 0.77
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 682797.00, Rod Temperature: 63.19, Green Cord Temperature: 67.00, Average Temperature: 65.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 14.91, PID Integral: 10.00, PID Derivative: 0.05, PID Output: 0.78
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 684797.00, Rod Temperature: 63.31, Green Cord Temperature: 67.25, Average Temperature: 65.28, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 14.72, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.77
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 686797.00, Rod Temperature: 63.38, Green Cord Temperature: 67.25, Average Temperature: 65.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 14.69, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.77
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 688797.00, Rod Temperature: 63.50, Green Cord Temperature: 67.50, Average Temperature: 65.50, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 14.50, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.76
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 690797.00, Rod Temperature: 63.63, Green Cord Temperature: 67.50, Average Temperature: 65.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 14.44, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.75
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 692797.00, Rod Temperature: 63.75, Green Cord Temperature: 67.75, Average Temperature: 65.75, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 14.25, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.74
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 694797.00, Rod Temperature: 63.88, Green Cord Temperature: 68.00, Average Temperature: 65.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 14.06, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.73
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 696797.00, Rod Temperature: 63.94, Green Cord Temperature: 68.00, Average Temperature: 65.97, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 14.03, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.73
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 698797.00, Rod Temperature: 64.06, Green Cord Temperature: 68.00, Average Temperature: 66.03, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 13.97, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.73
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 700797.00, Rod Temperature: 64.19, Green Cord Temperature: 68.00, Average Temperature: 66.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 13.91, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.73
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 702797.00, Rod Temperature: 64.25, Green Cord Temperature: 68.00, Average Temperature: 66.12, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 13.88, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.73
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 704797.00, Rod Temperature: 64.37, Green Cord Temperature: 68.25, Average Temperature: 66.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 13.69, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.72
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 706797.00, Rod Temperature: 64.50, Green Cord Temperature: 68.25, Average Temperature: 66.37, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 13.63, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.71
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 708797.00, Rod Temperature: 64.56, Green Cord Temperature: 68.25, Average Temperature: 66.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 13.59, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.71
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 710797.00, Rod Temperature: 64.69, Green Cord Temperature: 68.50, Average Temperature: 66.59, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 13.41, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.70
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 712797.00, Rod Temperature: 64.81, Green Cord Temperature: 68.50, Average Temperature: 66.66, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 13.34, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.70
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 714797.00, Rod Temperature: 64.94, Green Cord Temperature: 68.75, Average Temperature: 66.84, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 13.16, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.69
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 716797.00, Rod Temperature: 65.00, Green Cord Temperature: 68.75, Average Temperature: 66.87, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 13.13, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.69
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 718797.00, Rod Temperature: 65.12, Green Cord Temperature: 68.75, Average Temperature: 66.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 13.06, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.69
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 720797.00, Rod Temperature: 65.25, Green Cord Temperature: 69.00, Average Temperature: 67.12, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 12.88, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.68
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 722797.00, Rod Temperature: 65.31, Green Cord Temperature: 69.00, Average Temperature: 67.16, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 12.84, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.68
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 724797.00, Rod Temperature: 65.44, Green Cord Temperature: 69.00, Average Temperature: 67.22, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 12.78, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.67
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 726797.00, Rod Temperature: 65.50, Green Cord Temperature: 69.00, Average Temperature: 67.25, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 12.75, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.67
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 728797.00, Rod Temperature: 65.62, Green Cord Temperature: 69.25, Average Temperature: 67.44, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 12.56, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.66
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 730797.00, Rod Temperature: 65.75, Green Cord Temperature: 69.25, Average Temperature: 67.50, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 12.50, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.66
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 732797.00, Rod Temperature: 65.87, Green Cord Temperature: 69.50, Average Temperature: 67.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 12.31, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.65
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 734797.00, Rod Temperature: 65.94, Green Cord Temperature: 69.50, Average Temperature: 67.72, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 12.28, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.65
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 736797.00, Rod Temperature: 66.06, Green Cord Temperature: 69.50, Average Temperature: 67.78, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 12.22, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.64
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 738797.00, Rod Temperature: 66.12, Green Cord Temperature: 69.50, Average Temperature: 67.81, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 12.19, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.64
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 740797.00, Rod Temperature: 66.25, Green Cord Temperature: 69.75, Average Temperature: 68.00, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 12.00, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.63
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 742797.00, Rod Temperature: 66.37, Green Cord Temperature: 69.75, Average Temperature: 68.06, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 11.94, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.63
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 744797.00, Rod Temperature: 66.44, Green Cord Temperature: 70.00, Average Temperature: 68.22, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 11.78, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.62
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 746797.00, Rod Temperature: 66.56, Green Cord Temperature: 70.00, Average Temperature: 68.28, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 11.72, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.62
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 748797.00, Rod Temperature: 66.69, Green Cord Temperature: 70.00, Average Temperature: 68.34, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 11.66, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.62
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 750797.00, Rod Temperature: 66.75, Green Cord Temperature: 70.25, Average Temperature: 68.50, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 11.50, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.61
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 752797.00, Rod Temperature: 66.87, Green Cord Temperature: 70.25, Average Temperature: 68.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 11.44, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.60
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 754797.00, Rod Temperature: 66.94, Green Cord Temperature: 70.25, Average Temperature: 68.59, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 11.41, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.60
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 756797.00, Rod Temperature: 67.06, Green Cord Temperature: 70.50, Average Temperature: 68.78, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 11.22, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.59
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 758797.00, Rod Temperature: 67.12, Green Cord Temperature: 70.50, Average Temperature: 68.81, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 11.19, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.59
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 760797.00, Rod Temperature: 67.25, Green Cord Temperature: 70.50, Average Temperature: 68.87, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 11.13, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.59
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 762797.00, Rod Temperature: 67.31, Green Cord Temperature: 70.50, Average Temperature: 68.91, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 11.09, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.59
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 764797.00, Rod Temperature: 67.44, Green Cord Temperature: 70.75, Average Temperature: 69.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 10.91, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.58
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 766797.00, Rod Temperature: 67.56, Green Cord Temperature: 70.75, Average Temperature: 69.16, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 10.84, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.58
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 768797.00, Rod Temperature: 67.62, Green Cord Temperature: 70.75, Average Temperature: 69.19, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 10.81, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.57
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 770797.00, Rod Temperature: 67.75, Green Cord Temperature: 70.75, Average Temperature: 69.25, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 10.75, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.57
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 772797.00, Rod Temperature: 67.81, Green Cord Temperature: 71.00, Average Temperature: 69.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 10.59, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.56
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 774797.00, Rod Temperature: 67.94, Green Cord Temperature: 71.25, Average Temperature: 69.59, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 10.41, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.55
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 776797.00, Rod Temperature: 68.06, Green Cord Temperature: 71.50, Average Temperature: 69.78, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 10.22, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.54
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 778797.00, Rod Temperature: 68.12, Green Cord Temperature: 71.50, Average Temperature: 69.81, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 10.19, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.54
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 780797.00, Rod Temperature: 68.25, Green Cord Temperature: 71.50, Average Temperature: 69.87, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 10.13, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.54
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 782797.00, Rod Temperature: 68.37, Green Cord Temperature: 71.75, Average Temperature: 70.06, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 9.94, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.53
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 784797.00, Rod Temperature: 68.44, Green Cord Temperature: 71.75, Average Temperature: 70.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 9.91, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.53
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 786797.00, Rod Temperature: 68.56, Green Cord Temperature: 72.00, Average Temperature: 70.28, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 9.72, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.52
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 788797.00, Rod Temperature: 68.69, Green Cord Temperature: 71.75, Average Temperature: 70.22, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 9.78, PID Integral: 10.00, PID Derivative: 0.03, PID Output: 0.52
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 790797.00, Rod Temperature: 68.75, Green Cord Temperature: 72.00, Average Temperature: 70.37, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 9.63, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.51
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 792797.00, Rod Temperature: 68.87, Green Cord Temperature: 72.00, Average Temperature: 70.44, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 9.56, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.51
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 794797.00, Rod Temperature: 68.94, Green Cord Temperature: 72.25, Average Temperature: 70.59, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 9.41, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.50
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 796797.00, Rod Temperature: 69.00, Green Cord Temperature: 72.50, Average Temperature: 70.75, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 9.25, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.49
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 798797.00, Rod Temperature: 69.12, Green Cord Temperature: 72.50, Average Temperature: 70.81, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 9.19, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.49
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 800797.00, Rod Temperature: 69.25, Green Cord Temperature: 72.50, Average Temperature: 70.87, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 9.13, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.49
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 802797.00, Rod Temperature: 69.31, Green Cord Temperature: 72.75, Average Temperature: 71.03, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 8.97, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.48
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 804797.00, Rod Temperature: 69.44, Green Cord Temperature: 72.75, Average Temperature: 71.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 8.91, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.48
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 806797.00, Rod Temperature: 69.50, Green Cord Temperature: 72.75, Average Temperature: 71.12, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 8.88, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.48
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 808797.00, Rod Temperature: 69.62, Green Cord Temperature: 72.75, Average Temperature: 71.19, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 8.81, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.47
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 810797.00, Rod Temperature: 69.69, Green Cord Temperature: 73.00, Average Temperature: 71.34, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 8.66, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.46
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 812797.00, Rod Temperature: 69.81, Green Cord Temperature: 73.00, Average Temperature: 71.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 8.59, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.46
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 814797.00, Rod Temperature: 69.94, Green Cord Temperature: 73.25, Average Temperature: 71.59, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 8.41, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.45
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 816797.00, Rod Temperature: 70.00, Green Cord Temperature: 73.25, Average Temperature: 71.62, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 8.38, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.45
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 818797.00, Rod Temperature: 70.12, Green Cord Temperature: 73.50, Average Temperature: 71.81, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 8.19, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.44
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 820797.00, Rod Temperature: 70.25, Green Cord Temperature: 73.25, Average Temperature: 71.75, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 8.25, PID Integral: 10.00, PID Derivative: 0.03, PID Output: 0.45
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 822797.00, Rod Temperature: 70.31, Green Cord Temperature: 73.50, Average Temperature: 71.91, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 8.09, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.44
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 824797.00, Rod Temperature: 70.37, Green Cord Temperature: 73.75, Average Temperature: 72.06, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 7.94, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.43
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 826797.00, Rod Temperature: 70.50, Green Cord Temperature: 73.50, Average Temperature: 72.00, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 8.00, PID Integral: 10.00, PID Derivative: 0.03, PID Output: 0.43
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 828797.00, Rod Temperature: 70.62, Green Cord Temperature: 74.00, Average Temperature: 72.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 7.69, PID Integral: 10.00, PID Derivative: -0.16, PID Output: 0.42
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 830797.00, Rod Temperature: 70.69, Green Cord Temperature: 74.00, Average Temperature: 72.34, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 7.66, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.42
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 832797.00, Rod Temperature: 70.75, Green Cord Temperature: 74.00, Average Temperature: 72.37, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 7.63, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.41
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 834797.00, Rod Temperature: 70.87, Green Cord Temperature: 74.25, Average Temperature: 72.56, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 7.44, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.40
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 836797.00, Rod Temperature: 71.00, Green Cord Temperature: 74.25, Average Temperature: 72.62, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 7.38, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.40
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 838797.00, Rod Temperature: 71.12, Green Cord Temperature: 74.50, Average Temperature: 72.81, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 7.19, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.39
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 840797.00, Rod Temperature: 71.19, Green Cord Temperature: 74.75, Average Temperature: 72.97, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 7.03, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.38
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 842797.00, Rod Temperature: 71.25, Green Cord Temperature: 74.50, Average Temperature: 72.87, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 7.13, PID Integral: 10.00, PID Derivative: 0.05, PID Output: 0.39
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 844797.00, Rod Temperature: 71.37, Green Cord Temperature: 74.75, Average Temperature: 73.06, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 6.94, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.38
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 846797.00, Rod Temperature: 71.44, Green Cord Temperature: 74.75, Average Temperature: 73.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 6.91, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.38
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 848797.00, Rod Temperature: 71.62, Green Cord Temperature: 74.75, Average Temperature: 73.19, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 6.81, PID Integral: 10.00, PID Derivative: -0.05, PID Output: 0.37
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 850797.00, Rod Temperature: 71.69, Green Cord Temperature: 74.75, Average Temperature: 73.22, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 6.78, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.37
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 852797.00, Rod Temperature: 71.81, Green Cord Temperature: 75.00, Average Temperature: 73.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 6.59, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.36
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 854797.00, Rod Temperature: 71.94, Green Cord Temperature: 75.00, Average Temperature: 73.47, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 6.53, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.36
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 856797.00, Rod Temperature: 72.00, Green Cord Temperature: 75.25, Average Temperature: 73.62, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 6.38, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.35
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 858797.00, Rod Temperature: 72.06, Green Cord Temperature: 75.25, Average Temperature: 73.66, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 6.34, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.35
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 860797.00, Rod Temperature: 72.12, Green Cord Temperature: 75.25, Average Temperature: 73.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 6.31, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.35
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 862797.00, Rod Temperature: 72.25, Green Cord Temperature: 75.50, Average Temperature: 73.87, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 6.13, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.34
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 864797.00, Rod Temperature: 72.31, Green Cord Temperature: 75.50, Average Temperature: 73.91, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 6.09, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.34
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 866797.00, Rod Temperature: 72.44, Green Cord Temperature: 75.50, Average Temperature: 73.97, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 6.03, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.33
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 868797.00, Rod Temperature: 72.50, Green Cord Temperature: 75.75, Average Temperature: 74.12, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 5.88, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.33
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 870797.00, Rod Temperature: 72.62, Green Cord Temperature: 76.00, Average Temperature: 74.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 5.69, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.32
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 872797.00, Rod Temperature: 72.69, Green Cord Temperature: 76.00, Average Temperature: 74.34, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 5.66, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.32
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 874797.00, Rod Temperature: 72.81, Green Cord Temperature: 76.00, Average Temperature: 74.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 5.59, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.31
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 876797.00, Rod Temperature: 72.87, Green Cord Temperature: 76.00, Average Temperature: 74.44, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 5.56, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.31
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 878797.00, Rod Temperature: 73.00, Green Cord Temperature: 76.25, Average Temperature: 74.62, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 5.38, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.30
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 880797.00, Rod Temperature: 73.06, Green Cord Temperature: 76.25, Average Temperature: 74.66, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 5.34, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.30
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 882797.00, Rod Temperature: 73.12, Green Cord Temperature: 76.25, Average Temperature: 74.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 5.31, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.30
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 884797.00, Rod Temperature: 73.25, Green Cord Temperature: 76.50, Average Temperature: 74.87, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 5.13, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.29
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 886797.00, Rod Temperature: 73.31, Green Cord Temperature: 76.50, Average Temperature: 74.91, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 5.09, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.29
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 888797.00, Rod Temperature: 73.44, Green Cord Temperature: 76.50, Average Temperature: 74.97, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 5.03, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.28
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 890797.00, Rod Temperature: 73.50, Green Cord Temperature: 76.75, Average Temperature: 75.12, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 4.88, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.28
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 892797.00, Rod Temperature: 73.62, Green Cord Temperature: 77.00, Average Temperature: 75.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 4.69, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.27
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 894797.00, Rod Temperature: 73.75, Green Cord Temperature: 77.00, Average Temperature: 75.37, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 4.63, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.26
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 896797.00, Rod Temperature: 73.81, Green Cord Temperature: 77.25, Average Temperature: 75.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 4.47, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.26
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 898797.00, Rod Temperature: 73.94, Green Cord Temperature: 77.00, Average Temperature: 75.47, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 4.53, PID Integral: 10.00, PID Derivative: 0.03, PID Output: 0.26
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 900797.00, Rod Temperature: 74.06, Green Cord Temperature: 77.00, Average Temperature: 75.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 4.47, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.26
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 902797.00, Rod Temperature: 74.12, Green Cord Temperature: 77.25, Average Temperature: 75.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 4.31, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.25
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 904797.00, Rod Temperature: 74.25, Green Cord Temperature: 77.50, Average Temperature: 75.87, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 4.13, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.24
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 906797.00, Rod Temperature: 74.31, Green Cord Temperature: 77.50, Average Temperature: 75.91, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 4.09, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.24
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 908797.00, Rod Temperature: 74.44, Green Cord Temperature: 77.75, Average Temperature: 76.09, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 3.91, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.23
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 910797.00, Rod Temperature: 74.50, Green Cord Temperature: 77.75, Average Temperature: 76.12, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 3.88, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.23
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 912797.00, Rod Temperature: 74.56, Green Cord Temperature: 77.75, Average Temperature: 76.16, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 3.84, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.23
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 914797.00, Rod Temperature: 74.62, Green Cord Temperature: 78.00, Average Temperature: 76.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 3.69, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.22
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 916797.00, Rod Temperature: 74.75, Green Cord Temperature: 78.00, Average Temperature: 76.37, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 3.63, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.21
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 918797.00, Rod Temperature: 74.81, Green Cord Temperature: 78.00, Average Temperature: 76.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 3.59, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.21
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 920797.00, Rod Temperature: 74.94, Green Cord Temperature: 78.00, Average Temperature: 76.47, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 3.53, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.21
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 922797.00, Rod Temperature: 75.00, Green Cord Temperature: 78.00, Average Temperature: 76.50, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 3.50, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.21
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 924797.00, Rod Temperature: 75.12, Green Cord Temperature: 78.25, Average Temperature: 76.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 3.31, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.20
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 926797.00, Rod Temperature: 75.19, Green Cord Temperature: 78.50, Average Temperature: 76.84, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 3.16, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.19
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 928797.00, Rod Temperature: 75.31, Green Cord Temperature: 78.50, Average Temperature: 76.91, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 3.09, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.19
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 930797.00, Rod Temperature: 75.37, Green Cord Temperature: 78.50, Average Temperature: 76.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 3.06, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.19
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 932797.00, Rod Temperature: 75.50, Green Cord Temperature: 78.75, Average Temperature: 77.12, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 2.88, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 934797.00, Rod Temperature: 75.56, Green Cord Temperature: 78.75, Average Temperature: 77.16, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 2.84, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 936797.00, Rod Temperature: 75.69, Green Cord Temperature: 79.00, Average Temperature: 77.34, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 2.66, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.16
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 938797.00, Rod Temperature: 75.75, Green Cord Temperature: 79.00, Average Temperature: 77.37, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 2.63, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.16
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 940797.00, Rod Temperature: 75.87, Green Cord Temperature: 79.00, Average Temperature: 77.44, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 2.56, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.16
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 942797.00, Rod Temperature: 75.94, Green Cord Temperature: 79.25, Average Temperature: 77.59, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 2.41, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.15
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 944797.00, Rod Temperature: 76.00, Green Cord Temperature: 79.25, Average Temperature: 77.62, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 2.38, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.15
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 946797.00, Rod Temperature: 76.12, Green Cord Temperature: 79.25, Average Temperature: 77.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 2.31, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.15
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 948797.00, Rod Temperature: 76.25, Green Cord Temperature: 79.25, Average Temperature: 77.75, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 2.25, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.15
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 950797.00, Rod Temperature: 76.31, Green Cord Temperature: 79.50, Average Temperature: 77.91, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 2.09, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.14
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 952797.00, Rod Temperature: 76.37, Green Cord Temperature: 79.50, Average Temperature: 77.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 2.06, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.14
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 954797.00, Rod Temperature: 76.50, Green Cord Temperature: 79.50, Average Temperature: 78.00, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 2.00, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.13
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 956797.00, Rod Temperature: 76.56, Green Cord Temperature: 79.50, Average Temperature: 78.03, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 1.97, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.13
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 958797.00, Rod Temperature: 76.69, Green Cord Temperature: 79.75, Average Temperature: 78.22, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 1.78, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.12
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 960797.00, Rod Temperature: 76.75, Green Cord Temperature: 79.75, Average Temperature: 78.25, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 1.75, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.12
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 962797.00, Rod Temperature: 76.81, Green Cord Temperature: 79.75, Average Temperature: 78.28, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 1.72, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.12
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 964797.00, Rod Temperature: 76.87, Green Cord Temperature: 80.00, Average Temperature: 78.44, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 1.56, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.11
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 966797.00, Rod Temperature: 77.00, Green Cord Temperature: 80.00, Average Temperature: 78.50, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 1.50, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.11
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 968797.00, Rod Temperature: 77.06, Green Cord Temperature: 80.00, Average Temperature: 78.53, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 1.47, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.11
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 970797.00, Rod Temperature: 77.19, Green Cord Temperature: 80.25, Average Temperature: 78.72, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 1.28, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.10
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 972797.00, Rod Temperature: 77.25, Green Cord Temperature: 80.25, Average Temperature: 78.75, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 1.25, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.10
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 974797.00, Rod Temperature: 77.31, Green Cord Temperature: 80.50, Average Temperature: 78.91, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 1.09, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.09
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 976797.00, Rod Temperature: 77.44, Green Cord Temperature: 80.50, Average Temperature: 78.97, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 1.03, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.08
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 978797.00, Rod Temperature: 77.50, Green Cord Temperature: 80.50, Average Temperature: 79.00, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 1.00, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.08
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 980797.00, Rod Temperature: 77.62, Green Cord Temperature: 80.75, Average Temperature: 79.19, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 0.81, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.07
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 982797.00, Rod Temperature: 77.69, Green Cord Temperature: 80.75, Average Temperature: 79.22, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 0.78, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.07
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 984797.00, Rod Temperature: 77.81, Green Cord Temperature: 81.00, Average Temperature: 79.41, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 0.59, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.06
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 986797.00, Rod Temperature: 77.87, Green Cord Temperature: 80.75, Average Temperature: 79.31, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 0.69, PID Integral: 10.00, PID Derivative: 0.05, PID Output: 0.07
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 988797.00, Rod Temperature: 77.94, Green Cord Temperature: 81.00, Average Temperature: 79.47, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 0.53, PID Integral: 10.00, PID Derivative: -0.08, PID Output: 0.06
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 990797.00, Rod Temperature: 78.06, Green Cord Temperature: 81.25, Average Temperature: 79.66, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 0.34, PID Integral: 10.00, PID Derivative: -0.09, PID Output: 0.05
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 992797.00, Rod Temperature: 78.12, Green Cord Temperature: 81.25, Average Temperature: 79.69, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 0.31, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.05
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 994797.00, Rod Temperature: 78.25, Green Cord Temperature: 81.25, Average Temperature: 79.75, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 0.25, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.05
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 996797.00, Rod Temperature: 78.25, Green Cord Temperature: 81.50, Average Temperature: 79.87, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 0.12, PID Integral: 10.00, PID Derivative: -0.06, PID Output: 0.04
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 998797.00, Rod Temperature: 78.37, Green Cord Temperature: 81.50, Average Temperature: 79.94, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 0.06, PID Integral: 10.00, PID Derivative: -0.03, PID Output: 0.04
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1000797.00, Rod Temperature: 78.44, Green Cord Temperature: 81.50, Average Temperature: 79.97, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: 0.03, PID Integral: 10.00, PID Derivative: -0.02, PID Output: 0.03
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1002797.00, Rod Temperature: 78.56, Green Cord Temperature: 81.50, Average Temperature: 80.03, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: -0.03, PID Integral: 9.94, PID Derivative: -0.03, PID Output: 0.03
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1004797.00, Rod Temperature: 78.62, Green Cord Temperature: 81.50, Average Temperature: 80.06, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: -0.06, PID Integral: 9.81, PID Derivative: -0.02, PID Output: 0.03
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1006797.00, Rod Temperature: 78.75, Green Cord Temperature: 82.00, Average Temperature: 80.37, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: -0.37, PID Integral: 9.06, PID Derivative: -0.16, PID Output: 0.01
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1008797.00, Rod Temperature: 78.81, Green Cord Temperature: 81.75, Average Temperature: 80.28, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: -0.28, PID Integral: 8.50, PID Derivative: 0.05, PID Output: 0.02
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1010797.00, Rod Temperature: 78.87, Green Cord Temperature: 82.00, Average Temperature: 80.44, Shade Openness: 1.00, Motor Angle: 90.00, Target Temperature: 80.00, PID Error: -0.44, PID Integral: 7.63, PID Derivative: -0.08, PID Output: 0.00
+[DEBUG] Rotating 0.28 degrees at 10 RPM.
+[DATA] Time (ms): 1012797.00, Rod Temperature: 79.00, Green Cord Temperature: 82.00, Average Temperature: 80.50, Shade Openness: 1.00, Motor Angle: 89.72, Target Temperature: 80.00, PID Error: -0.50, PID Integral: 6.63, PID Derivative: -0.03, PID Output: -0.00
+[DEBUG] Rotating 1.31 degrees at 10 RPM.
+[DATA] Time (ms): 1014797.00, Rod Temperature: 79.06, Green Cord Temperature: 82.25, Average Temperature: 80.66, Shade Openness: 0.98, Motor Angle: 88.41, Target Temperature: 80.00, PID Error: -0.66, PID Integral: 5.31, PID Derivative: -0.08, PID Output: -0.02
+[DEBUG] Rotating 1.72 degrees at 10 RPM.
+[DATA] Time (ms): 1016797.00, Rod Temperature: 79.12, Green Cord Temperature: 82.25, Average Temperature: 80.69, Shade Openness: 0.96, Motor Angle: 86.69, Target Temperature: 80.00, PID Error: -0.69, PID Integral: 3.94, PID Derivative: -0.02, PID Output: -0.02
+[DEBUG] Rotating 3.04 degrees at 10 RPM.
+[DATA] Time (ms): 1018797.00, Rod Temperature: 79.25, Green Cord Temperature: 82.50, Average Temperature: 80.87, Shade Openness: 0.92, Motor Angle: 83.65, Target Temperature: 80.00, PID Error: -0.88, PID Integral: 2.19, PID Derivative: -0.09, PID Output: -0.04
+[DEBUG] Rotating 3.55 degrees at 10 RPM.
+[DATA] Time (ms): 1020797.00, Rod Temperature: 79.31, Green Cord Temperature: 82.50, Average Temperature: 80.91, Shade Openness: 0.88, Motor Angle: 80.10, Target Temperature: 80.00, PID Error: -0.91, PID Integral: 0.37, PID Derivative: -0.02, PID Output: -0.04
+[DEBUG] Rotating 4.17 degrees at 10 RPM.
+[DATA] Time (ms): 1022797.00, Rod Temperature: 79.37, Green Cord Temperature: 82.50, Average Temperature: 80.94, Shade Openness: 0.82, Motor Angle: 75.93, Target Temperature: 80.00, PID Error: -0.94, PID Integral: -1.50, PID Derivative: -0.02, PID Output: -0.05
+[DEBUG] Rotating 5.63 degrees at 10 RPM.
+[DATA] Time (ms): 1024797.00, Rod Temperature: 79.50, Green Cord Temperature: 82.75, Average Temperature: 81.12, Shade Openness: 0.75, Motor Angle: 70.31, Target Temperature: 80.00, PID Error: -1.12, PID Integral: -3.75, PID Derivative: -0.09, PID Output: -0.07
+[DEBUG] Rotating 6.26 degrees at 10 RPM.
+[DATA] Time (ms): 1026797.00, Rod Temperature: 79.56, Green Cord Temperature: 82.75, Average Temperature: 81.16, Shade Openness: 0.68, Motor Angle: 64.05, Target Temperature: 80.00, PID Error: -1.16, PID Integral: -6.06, PID Derivative: -0.02, PID Output: -0.08
+[DEBUG] Rotating 7.02 degrees at 10 RPM.
+[DATA] Time (ms): 1028797.00, Rod Temperature: 79.62, Green Cord Temperature: 82.75, Average Temperature: 81.19, Shade Openness: 0.59, Motor Angle: 57.02, Target Temperature: 80.00, PID Error: -1.19, PID Integral: -8.44, PID Derivative: -0.02, PID Output: -0.09
+[DEBUG] Rotating 8.15 degrees at 10 RPM.
+[DATA] Time (ms): 1030797.00, Rod Temperature: 79.69, Green Cord Temperature: 83.00, Average Temperature: 81.34, Shade Openness: 0.49, Motor Angle: 48.88, Target Temperature: 80.00, PID Error: -1.34, PID Integral: -10.00, PID Derivative: -0.08, PID Output: -0.10
+[DEBUG] Rotating 7.75 degrees at 10 RPM.
+[DATA] Time (ms): 1032797.00, Rod Temperature: 79.81, Green Cord Temperature: 82.75, Average Temperature: 81.28, Shade Openness: 0.39, Motor Angle: 41.13, Target Temperature: 80.00, PID Error: -1.28, PID Integral: -10.00, PID Derivative: 0.03, PID Output: -0.10
+[DEBUG] Rotating 8.67 degrees at 10 RPM.
+[DATA] Time (ms): 1034797.00, Rod Temperature: 79.94, Green Cord Temperature: 83.00, Average Temperature: 81.47, Shade Openness: 0.28, Motor Angle: 32.46, Target Temperature: 80.00, PID Error: -1.47, PID Integral: -10.00, PID Derivative: -0.09, PID Output: -0.11
+[DEBUG] Rotating 8.54 degrees at 10 RPM.
+[DATA] Time (ms): 1036797.00, Rod Temperature: 79.94, Green Cord Temperature: 83.00, Average Temperature: 81.47, Shade Openness: 0.17, Motor Angle: 23.92, Target Temperature: 80.00, PID Error: -1.47, PID Integral: -10.00, PID Derivative: 0.00, PID Output: -0.11
+[DEBUG] Rotating 9.42 degrees at 10 RPM.
+[DATA] Time (ms): 1038797.00, Rod Temperature: 80.06, Green Cord Temperature: 83.25, Average Temperature: 81.66, Shade Openness: 0.06, Motor Angle: 14.50, Target Temperature: 80.00, PID Error: -1.66, PID Integral: -10.00, PID Derivative: -0.09, PID Output: -0.12
+[DEBUG] Rotating 4.50 degrees at 10 RPM.
+[DATA] Time (ms): 1040797.00, Rod Temperature: 80.19, Green Cord Temperature: 83.25, Average Temperature: 81.72, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.72, PID Integral: -10.00, PID Derivative: -0.03, PID Output: -0.12
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1042797.00, Rod Temperature: 80.25, Green Cord Temperature: 83.25, Average Temperature: 81.75, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.75, PID Integral: -10.00, PID Derivative: -0.02, PID Output: -0.12
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1044797.00, Rod Temperature: 80.31, Green Cord Temperature: 83.50, Average Temperature: 81.91, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.91, PID Integral: -10.00, PID Derivative: -0.08, PID Output: -0.13
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1046797.00, Rod Temperature: 80.37, Green Cord Temperature: 83.50, Average Temperature: 81.94, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.94, PID Integral: -10.00, PID Derivative: -0.02, PID Output: -0.13
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1048797.00, Rod Temperature: 80.44, Green Cord Temperature: 83.50, Average Temperature: 81.97, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.97, PID Integral: -10.00, PID Derivative: -0.02, PID Output: -0.13
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1050797.00, Rod Temperature: 80.56, Green Cord Temperature: 83.75, Average Temperature: 82.16, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.16, PID Integral: -10.00, PID Derivative: -0.09, PID Output: -0.14
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1052797.00, Rod Temperature: 80.62, Green Cord Temperature: 83.75, Average Temperature: 82.19, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.19, PID Integral: -10.00, PID Derivative: -0.02, PID Output: -0.14
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1054797.00, Rod Temperature: 80.69, Green Cord Temperature: 83.75, Average Temperature: 82.22, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.22, PID Integral: -10.00, PID Derivative: -0.02, PID Output: -0.14
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1056797.00, Rod Temperature: 80.81, Green Cord Temperature: 84.00, Average Temperature: 82.41, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.41, PID Integral: -10.00, PID Derivative: -0.09, PID Output: -0.16
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1058797.00, Rod Temperature: 80.87, Green Cord Temperature: 83.75, Average Temperature: 82.31, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.31, PID Integral: -10.00, PID Derivative: 0.05, PID Output: -0.15
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1060797.00, Rod Temperature: 80.94, Green Cord Temperature: 84.00, Average Temperature: 82.47, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.47, PID Integral: -10.00, PID Derivative: -0.08, PID Output: -0.16
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1062797.00, Rod Temperature: 81.00, Green Cord Temperature: 84.25, Average Temperature: 82.62, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.63, PID Integral: -10.00, PID Derivative: -0.08, PID Output: -0.17
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1064797.00, Rod Temperature: 81.12, Green Cord Temperature: 84.00, Average Temperature: 82.56, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.56, PID Integral: -10.00, PID Derivative: 0.03, PID Output: -0.16
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1066797.00, Rod Temperature: 81.19, Green Cord Temperature: 84.25, Average Temperature: 82.72, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.72, PID Integral: -10.00, PID Derivative: -0.08, PID Output: -0.17
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1068797.00, Rod Temperature: 81.31, Green Cord Temperature: 84.50, Average Temperature: 82.91, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.91, PID Integral: -10.00, PID Derivative: -0.09, PID Output: -0.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1070797.00, Rod Temperature: 81.37, Green Cord Temperature: 84.50, Average Temperature: 82.94, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.94, PID Integral: -10.00, PID Derivative: -0.02, PID Output: -0.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1072797.00, Rod Temperature: 81.44, Green Cord Temperature: 84.50, Average Temperature: 82.97, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.97, PID Integral: -10.00, PID Derivative: -0.02, PID Output: -0.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1074797.00, Rod Temperature: 81.50, Green Cord Temperature: 84.50, Average Temperature: 83.00, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.00, PID Integral: -10.00, PID Derivative: -0.02, PID Output: -0.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1076797.00, Rod Temperature: 81.56, Green Cord Temperature: 84.50, Average Temperature: 83.03, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.03, PID Integral: -10.00, PID Derivative: -0.02, PID Output: -0.19
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1078797.00, Rod Temperature: 81.69, Green Cord Temperature: 84.75, Average Temperature: 83.22, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.22, PID Integral: -10.00, PID Derivative: -0.09, PID Output: -0.20
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1080797.00, Rod Temperature: 81.75, Green Cord Temperature: 84.75, Average Temperature: 83.25, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.25, PID Integral: -10.00, PID Derivative: -0.02, PID Output: -0.20
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1082797.00, Rod Temperature: 81.81, Green Cord Temperature: 84.75, Average Temperature: 83.28, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.28, PID Integral: -10.00, PID Derivative: -0.02, PID Output: -0.20
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1084797.00, Rod Temperature: 81.94, Green Cord Temperature: 85.00, Average Temperature: 83.47, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.47, PID Integral: -10.00, PID Derivative: -0.09, PID Output: -0.21
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1086797.00, Rod Temperature: 82.00, Green Cord Temperature: 85.00, Average Temperature: 83.50, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.50, PID Integral: -10.00, PID Derivative: -0.02, PID Output: -0.21
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1088797.00, Rod Temperature: 82.06, Green Cord Temperature: 85.00, Average Temperature: 83.53, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.53, PID Integral: -10.00, PID Derivative: -0.02, PID Output: -0.21
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1090797.00, Rod Temperature: 82.19, Green Cord Temperature: 85.00, Average Temperature: 83.59, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.59, PID Integral: -10.00, PID Derivative: -0.03, PID Output: -0.21
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1092797.00, Rod Temperature: 82.31, Green Cord Temperature: 85.00, Average Temperature: 83.66, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.66, PID Integral: -10.00, PID Derivative: -0.03, PID Output: -0.22
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1094797.00, Rod Temperature: 82.37, Green Cord Temperature: 84.75, Average Temperature: 83.56, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.56, PID Integral: -10.00, PID Derivative: 0.05, PID Output: -0.21
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1096797.00, Rod Temperature: 82.44, Green Cord Temperature: 84.50, Average Temperature: 83.47, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.47, PID Integral: -10.00, PID Derivative: 0.05, PID Output: -0.21
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1098797.00, Rod Temperature: 82.50, Green Cord Temperature: 84.25, Average Temperature: 83.37, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.38, PID Integral: -10.00, PID Derivative: 0.05, PID Output: -0.20
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1100797.00, Rod Temperature: 82.56, Green Cord Temperature: 84.25, Average Temperature: 83.41, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.41, PID Integral: -10.00, PID Derivative: -0.02, PID Output: -0.20
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1102797.00, Rod Temperature: 82.56, Green Cord Temperature: 84.25, Average Temperature: 83.41, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.41, PID Integral: -10.00, PID Derivative: 0.00, PID Output: -0.20
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1104797.00, Rod Temperature: 82.62, Green Cord Temperature: 84.25, Average Temperature: 83.44, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.44, PID Integral: -10.00, PID Derivative: -0.02, PID Output: -0.21
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1106797.00, Rod Temperature: 82.62, Green Cord Temperature: 84.00, Average Temperature: 83.31, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.31, PID Integral: -10.00, PID Derivative: 0.06, PID Output: -0.20
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1108797.00, Rod Temperature: 82.62, Green Cord Temperature: 84.00, Average Temperature: 83.31, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.31, PID Integral: -10.00, PID Derivative: 0.00, PID Output: -0.20
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1110797.00, Rod Temperature: 82.62, Green Cord Temperature: 83.75, Average Temperature: 83.19, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.19, PID Integral: -10.00, PID Derivative: 0.06, PID Output: -0.19
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1112797.00, Rod Temperature: 82.62, Green Cord Temperature: 83.75, Average Temperature: 83.19, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.19, PID Integral: -10.00, PID Derivative: 0.00, PID Output: -0.19
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1114797.00, Rod Temperature: 82.62, Green Cord Temperature: 83.75, Average Temperature: 83.19, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.19, PID Integral: -10.00, PID Derivative: 0.00, PID Output: -0.19
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1116797.00, Rod Temperature: 82.62, Green Cord Temperature: 83.50, Average Temperature: 83.06, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.06, PID Integral: -10.00, PID Derivative: 0.06, PID Output: -0.19
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1118797.00, Rod Temperature: 82.62, Green Cord Temperature: 83.75, Average Temperature: 83.19, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.19, PID Integral: -10.00, PID Derivative: -0.06, PID Output: -0.19
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1120797.00, Rod Temperature: 82.62, Green Cord Temperature: 83.50, Average Temperature: 83.06, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.06, PID Integral: -10.00, PID Derivative: 0.06, PID Output: -0.19
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1122797.00, Rod Temperature: 82.62, Green Cord Temperature: 83.50, Average Temperature: 83.06, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -3.06, PID Integral: -10.00, PID Derivative: 0.00, PID Output: -0.19
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1124797.00, Rod Temperature: 82.56, Green Cord Temperature: 83.25, Average Temperature: 82.91, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.91, PID Integral: -10.00, PID Derivative: 0.08, PID Output: -0.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1126797.00, Rod Temperature: 82.56, Green Cord Temperature: 83.25, Average Temperature: 82.91, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.91, PID Integral: -10.00, PID Derivative: 0.00, PID Output: -0.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1128797.00, Rod Temperature: 82.56, Green Cord Temperature: 83.25, Average Temperature: 82.91, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.91, PID Integral: -10.00, PID Derivative: 0.00, PID Output: -0.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1130797.00, Rod Temperature: 82.50, Green Cord Temperature: 83.25, Average Temperature: 82.87, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.88, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1132797.00, Rod Temperature: 82.50, Green Cord Temperature: 83.25, Average Temperature: 82.87, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.88, PID Integral: -10.00, PID Derivative: 0.00, PID Output: -0.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1134797.00, Rod Temperature: 82.44, Green Cord Temperature: 83.25, Average Temperature: 82.84, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.84, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1136797.00, Rod Temperature: 82.44, Green Cord Temperature: 83.25, Average Temperature: 82.84, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.84, PID Integral: -10.00, PID Derivative: 0.00, PID Output: -0.18
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1138797.00, Rod Temperature: 82.37, Green Cord Temperature: 83.25, Average Temperature: 82.81, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.81, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.17
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1140797.00, Rod Temperature: 82.37, Green Cord Temperature: 83.00, Average Temperature: 82.69, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.69, PID Integral: -10.00, PID Derivative: 0.06, PID Output: -0.17
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1142797.00, Rod Temperature: 82.31, Green Cord Temperature: 83.00, Average Temperature: 82.66, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.66, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.17
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1144797.00, Rod Temperature: 82.31, Green Cord Temperature: 83.00, Average Temperature: 82.66, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.66, PID Integral: -10.00, PID Derivative: 0.00, PID Output: -0.17
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1146797.00, Rod Temperature: 82.25, Green Cord Temperature: 83.00, Average Temperature: 82.62, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.63, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.16
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1148797.00, Rod Temperature: 82.25, Green Cord Temperature: 83.00, Average Temperature: 82.62, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.63, PID Integral: -10.00, PID Derivative: 0.00, PID Output: -0.16
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1150797.00, Rod Temperature: 82.19, Green Cord Temperature: 83.00, Average Temperature: 82.59, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.59, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.16
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1152797.00, Rod Temperature: 82.12, Green Cord Temperature: 82.75, Average Temperature: 82.44, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.44, PID Integral: -10.00, PID Derivative: 0.08, PID Output: -0.15
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1154797.00, Rod Temperature: 82.06, Green Cord Temperature: 82.75, Average Temperature: 82.41, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.41, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.15
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1156797.00, Rod Temperature: 82.00, Green Cord Temperature: 82.50, Average Temperature: 82.25, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.25, PID Integral: -10.00, PID Derivative: 0.08, PID Output: -0.14
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1158797.00, Rod Temperature: 82.00, Green Cord Temperature: 82.75, Average Temperature: 82.37, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.38, PID Integral: -10.00, PID Derivative: -0.06, PID Output: -0.15
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1160797.00, Rod Temperature: 81.94, Green Cord Temperature: 82.50, Average Temperature: 82.22, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.22, PID Integral: -10.00, PID Derivative: 0.08, PID Output: -0.14
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1162797.00, Rod Temperature: 81.87, Green Cord Temperature: 82.50, Average Temperature: 82.19, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.19, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.14
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1164797.00, Rod Temperature: 81.81, Green Cord Temperature: 82.50, Average Temperature: 82.16, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.16, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.14
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1166797.00, Rod Temperature: 81.75, Green Cord Temperature: 82.50, Average Temperature: 82.12, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.13, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.14
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1168797.00, Rod Temperature: 81.75, Green Cord Temperature: 82.50, Average Temperature: 82.12, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -2.13, PID Integral: -10.00, PID Derivative: 0.00, PID Output: -0.14
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1170797.00, Rod Temperature: 81.69, Green Cord Temperature: 82.25, Average Temperature: 81.97, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.97, PID Integral: -10.00, PID Derivative: 0.08, PID Output: -0.13
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1172797.00, Rod Temperature: 81.69, Green Cord Temperature: 82.25, Average Temperature: 81.97, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.97, PID Integral: -10.00, PID Derivative: 0.00, PID Output: -0.13
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1174797.00, Rod Temperature: 81.62, Green Cord Temperature: 82.00, Average Temperature: 81.81, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.81, PID Integral: -10.00, PID Derivative: 0.08, PID Output: -0.12
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1176797.00, Rod Temperature: 81.56, Green Cord Temperature: 82.25, Average Temperature: 81.91, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.91, PID Integral: -10.00, PID Derivative: -0.05, PID Output: -0.13
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1178797.00, Rod Temperature: 81.50, Green Cord Temperature: 82.00, Average Temperature: 81.75, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.75, PID Integral: -10.00, PID Derivative: 0.08, PID Output: -0.12
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1180797.00, Rod Temperature: 81.44, Green Cord Temperature: 82.25, Average Temperature: 81.84, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.84, PID Integral: -10.00, PID Derivative: -0.05, PID Output: -0.13
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1182797.00, Rod Temperature: 81.37, Green Cord Temperature: 82.00, Average Temperature: 81.69, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.69, PID Integral: -10.00, PID Derivative: 0.08, PID Output: -0.12
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1184797.00, Rod Temperature: 81.31, Green Cord Temperature: 82.00, Average Temperature: 81.66, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.66, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.12
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1186797.00, Rod Temperature: 81.25, Green Cord Temperature: 82.00, Average Temperature: 81.62, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.63, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.11
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1188797.00, Rod Temperature: 81.19, Green Cord Temperature: 82.00, Average Temperature: 81.59, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.59, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.11
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1190797.00, Rod Temperature: 81.19, Green Cord Temperature: 82.00, Average Temperature: 81.59, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.59, PID Integral: -10.00, PID Derivative: 0.00, PID Output: -0.11
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1192797.00, Rod Temperature: 81.06, Green Cord Temperature: 81.75, Average Temperature: 81.41, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.41, PID Integral: -10.00, PID Derivative: 0.09, PID Output: -0.10
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1194797.00, Rod Temperature: 81.06, Green Cord Temperature: 81.50, Average Temperature: 81.28, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.28, PID Integral: -10.00, PID Derivative: 0.06, PID Output: -0.10
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1196797.00, Rod Temperature: 81.00, Green Cord Temperature: 81.75, Average Temperature: 81.37, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.37, PID Integral: -10.00, PID Derivative: -0.05, PID Output: -0.10
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1198797.00, Rod Temperature: 80.94, Green Cord Temperature: 81.50, Average Temperature: 81.22, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.22, PID Integral: -10.00, PID Derivative: 0.08, PID Output: -0.09
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1200797.00, Rod Temperature: 80.87, Green Cord Temperature: 81.50, Average Temperature: 81.19, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.19, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.09
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1202797.00, Rod Temperature: 80.87, Green Cord Temperature: 81.25, Average Temperature: 81.06, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.06, PID Integral: -10.00, PID Derivative: 0.06, PID Output: -0.09
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1204797.00, Rod Temperature: 80.75, Green Cord Temperature: 81.50, Average Temperature: 81.12, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.12, PID Integral: -10.00, PID Derivative: -0.03, PID Output: -0.09
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1206797.00, Rod Temperature: 80.75, Green Cord Temperature: 81.25, Average Temperature: 81.00, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -1.00, PID Integral: -10.00, PID Derivative: 0.06, PID Output: -0.08
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1208797.00, Rod Temperature: 80.69, Green Cord Temperature: 81.25, Average Temperature: 80.97, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -0.97, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.08
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1210797.00, Rod Temperature: 80.62, Green Cord Temperature: 81.25, Average Temperature: 80.94, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -0.94, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.08
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1212797.00, Rod Temperature: 80.56, Green Cord Temperature: 81.00, Average Temperature: 80.78, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -0.78, PID Integral: -10.00, PID Derivative: 0.08, PID Output: -0.07
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1214797.00, Rod Temperature: 80.50, Green Cord Temperature: 81.00, Average Temperature: 80.75, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -0.75, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.07
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1216797.00, Rod Temperature: 80.44, Green Cord Temperature: 81.25, Average Temperature: 80.84, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -0.84, PID Integral: -10.00, PID Derivative: -0.05, PID Output: -0.08
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1218797.00, Rod Temperature: 80.37, Green Cord Temperature: 81.00, Average Temperature: 80.69, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -0.69, PID Integral: -10.00, PID Derivative: 0.08, PID Output: -0.07
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1220797.00, Rod Temperature: 80.31, Green Cord Temperature: 80.75, Average Temperature: 80.53, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -0.53, PID Integral: -10.00, PID Derivative: 0.08, PID Output: -0.06
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1222797.00, Rod Temperature: 80.25, Green Cord Temperature: 80.75, Average Temperature: 80.50, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -0.50, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.06
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1224797.00, Rod Temperature: 80.25, Green Cord Temperature: 80.75, Average Temperature: 80.50, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -0.50, PID Integral: -10.00, PID Derivative: 0.00, PID Output: -0.06
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1226797.00, Rod Temperature: 80.12, Green Cord Temperature: 80.75, Average Temperature: 80.44, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -0.44, PID Integral: -10.00, PID Derivative: 0.03, PID Output: -0.05
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1228797.00, Rod Temperature: 80.12, Green Cord Temperature: 80.75, Average Temperature: 80.44, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -0.44, PID Integral: -10.00, PID Derivative: 0.00, PID Output: -0.06
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1230797.00, Rod Temperature: 80.06, Green Cord Temperature: 80.75, Average Temperature: 80.41, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -0.41, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.05
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1232797.00, Rod Temperature: 80.00, Green Cord Temperature: 80.50, Average Temperature: 80.25, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -0.25, PID Integral: -10.00, PID Derivative: 0.08, PID Output: -0.04
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1234797.00, Rod Temperature: 79.87, Green Cord Temperature: 80.50, Average Temperature: 80.19, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -0.19, PID Integral: -10.00, PID Derivative: 0.03, PID Output: -0.04
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1236797.00, Rod Temperature: 79.87, Green Cord Temperature: 80.75, Average Temperature: 80.31, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -0.31, PID Integral: -10.00, PID Derivative: -0.06, PID Output: -0.05
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1238797.00, Rod Temperature: 79.81, Green Cord Temperature: 80.25, Average Temperature: 80.03, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: -0.03, PID Integral: -10.00, PID Derivative: 0.14, PID Output: -0.03
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1240797.00, Rod Temperature: 79.75, Green Cord Temperature: 80.25, Average Temperature: 80.00, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: 0.00, PID Integral: -10.00, PID Derivative: 0.02, PID Output: -0.03
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1242797.00, Rod Temperature: 79.69, Green Cord Temperature: 80.25, Average Temperature: 79.97, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: 0.03, PID Integral: -9.94, PID Derivative: 0.02, PID Output: -0.03
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1244797.00, Rod Temperature: 79.62, Green Cord Temperature: 80.25, Average Temperature: 79.94, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: 0.06, PID Integral: -9.81, PID Derivative: 0.02, PID Output: -0.03
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1246797.00, Rod Temperature: 79.56, Green Cord Temperature: 80.00, Average Temperature: 79.78, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: 0.22, PID Integral: -9.38, PID Derivative: 0.08, PID Output: -0.02
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1248797.00, Rod Temperature: 79.50, Green Cord Temperature: 79.75, Average Temperature: 79.62, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: 0.37, PID Integral: -8.63, PID Derivative: 0.08, PID Output: -0.01
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1250797.00, Rod Temperature: 79.44, Green Cord Temperature: 79.75, Average Temperature: 79.59, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: 0.41, PID Integral: -7.81, PID Derivative: 0.02, PID Output: -0.01
+[DEBUG] Rotating -0.00 degrees at 10 RPM.
+[DATA] Time (ms): 1252797.00, Rod Temperature: 79.37, Green Cord Temperature: 79.75, Average Temperature: 79.56, Shade Openness: 0.00, Motor Angle: 10.00, Target Temperature: 80.00, PID Error: 0.44, PID Integral: -6.94, PID Derivative: 0.02, PID Output: -0.00
+[DEBUG] Rotating -0.95 degrees at 10 RPM.
+[DATA] Time (ms): 1254797.00, Rod Temperature: 79.31, Green Cord Temperature: 79.50, Average Temperature: 79.41, Shade Openness: 0.01, Motor Angle: 10.95, Target Temperature: 80.00, PID Error: 0.59, PID Integral: -5.75, PID Derivative: 0.08, PID Output: 0.01
+[DEBUG] Rotating -0.67 degrees at 10 RPM.
+[DATA] Time (ms): 1256797.00, Rod Temperature: 79.25, Green Cord Temperature: 79.75, Average Temperature: 79.50, Shade Openness: 0.02, Motor Angle: 11.62, Target Temperature: 80.00, PID Error: 0.50, PID Integral: -4.75, PID Derivative: -0.05, PID Output: 0.01
+[DEBUG] Rotating -1.16 degrees at 10 RPM.
+[DATA] Time (ms): 1258797.00, Rod Temperature: 79.19, Green Cord Temperature: 79.75, Average Temperature: 79.47, Shade Openness: 0.03, Motor Angle: 12.78, Target Temperature: 80.00, PID Error: 0.53, PID Integral: -3.69, PID Derivative: 0.02, PID Output: 0.01
+[DEBUG] Rotating -2.24 degrees at 10 RPM.
+[DATA] Time (ms): 1260797.00, Rod Temperature: 79.12, Green Cord Temperature: 79.50, Average Temperature: 79.31, Shade Openness: 0.06, Motor Angle: 15.02, Target Temperature: 80.00, PID Error: 0.69, PID Integral: -2.31, PID Derivative: 0.08, PID Output: 0.03
+[DEBUG] Rotating -2.66 degrees at 10 RPM.
+[DATA] Time (ms): 1262797.00, Rod Temperature: 79.06, Green Cord Temperature: 79.50, Average Temperature: 79.28, Shade Openness: 0.10, Motor Angle: 17.68, Target Temperature: 80.00, PID Error: 0.72, PID Integral: -0.88, PID Derivative: 0.02, PID Output: 0.03
+[DEBUG] Rotating -3.84 degrees at 10 RPM.
+[DATA] Time (ms): 1264797.00, Rod Temperature: 79.00, Green Cord Temperature: 79.25, Average Temperature: 79.12, Shade Openness: 0.14, Motor Angle: 21.52, Target Temperature: 80.00, PID Error: 0.88, PID Integral: 0.88, PID Derivative: 0.08, PID Output: 0.05
+[DEBUG] Rotating -3.55 degrees at 10 RPM.
+[DATA] Time (ms): 1266797.00, Rod Temperature: 79.00, Green Cord Temperature: 79.50, Average Temperature: 79.25, Shade Openness: 0.19, Motor Angle: 25.07, Target Temperature: 80.00, PID Error: 0.75, PID Integral: 2.38, PID Derivative: -0.06, PID Output: 0.04
+[D
